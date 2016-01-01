@@ -378,7 +378,7 @@ The responsibilities of the Historian shall be the following:
 #### Office hours
 
 All officers are required to record no less than two (2) office hours per week or eight (8) office hours per month to ensure we retain said office in the Reitz Union, or another location, which requires members to put in hours to retain the office. This requirement may not be waived.
-- 
+
 #### Contracts
 
 All Executive board members are required to sign their respective Rights and Responsibilities contracts prior to taking office. Being found in breach of contract may be grounds for impeachment at the discretion of the executive board.
