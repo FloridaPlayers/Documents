@@ -356,8 +356,9 @@ Web Manager with approval by the executive committee and the Web
 Management team.
 
 
-### Section 12 – HistorianThe responsibilities of the Historian shall be
-the following:
+### Section 12 – Historian
+
+The responsibilities of the Historian shall be the following:
 
 1. To keep a digital and paper archive of all savable content including but not limited to posters, programs etc.
 2. In coordination with the publicist and each individual production’s producer, to ensure that a photo-call takes place for each Florida Players production.
@@ -375,10 +376,12 @@ the following:
 ### Section 13 – General Requirements of the Executive Board Officers 
 
 #### Office hours
-- All officers are required to record no less than two (2) office hours per week or eight (8) office hours per month to ensure we retain said office in the Reitz Union, or another location, which requires members to put in hours to retain the office. This requirement may not be waived.
+
+All officers are required to record no less than two (2) office hours per week or eight (8) office hours per month to ensure we retain said office in the Reitz Union, or another location, which requires members to put in hours to retain the office. This requirement may not be waived.
 - 
 #### Contracts
-- All Executive board members are required to sign their respective Rights and Responsibilities contracts prior to taking office. Being found in breach of contract may be grounds for impeachment at the discretion of the executive board.
+
+All Executive board members are required to sign their respective Rights and Responsibilities contracts prior to taking office. Being found in breach of contract may be grounds for impeachment at the discretion of the executive board.
 
 #### Attendance
 
