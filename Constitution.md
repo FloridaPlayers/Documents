@@ -190,7 +190,7 @@ Student Government Senate and the Fine Arts College Council.
 
 10. To reserve space for general body meetings. (Workshops as well.)
 
-Section 3 – Secretary
+### Section 3 – Secretary
 
 The responsibilities of the Secretary shall be the following:
 
@@ -231,258 +231,111 @@ as well)
 13. To plan and produce one workshop with assistance from the Assistant
 Artistic Director.
 
-Section 4 – Treasurer/Director of Finance
+### Section 4 – Treasurer/Director of Finance
 
 The office of Director of Finance shall be equivalent to the office of
 Treasurer as per Student Government regulations. The office shall here
 in be referred to only as Director of Finance. The responsibilities of
 the Director of Finance shall be the following:
 
--   1.  To keep accurate records of all Florida Players revenues
-    and expenditures.
-
--   2.  ToserveaschairoftheFinanceCommittee.
-
--   3.  To keep an accurate current balance of all Florida Players finances
-    and to keep said balance available for review at all meetings.
-
--   4.  To maintain a close working relationship with the Student Government
-    Treasurer the SG Finance Office, the Accountant and the Senate.
-
--   5.
-     Tohaveco-signauthoritywiththePresidentofFloridaPlayersonallStudentAcquisition
-    Requests (SARs).
-
--   6.  TopreparethebudgetrequestproposalforStudentGovernmentFinance.
-
--   7.  To oversee the proposition of any and all special allocation
-    requests and to attend the special allocation committee meetings.
-
--   8.  To ensure the delegation of funds from the overall Florida Players’
-    budget to their appropriate subgroups as pre-determined in the
-    Year’s budget.
-
--   9.  TopropagatebudgetchangesproportionallythroughFloridaPlayersanditssubgroups.
-
--   10.  To serve as primary liaison between Florida Players and
-    its subgroups.
-
-11. To maintain an officer’s operational handbook to be passed down to
-the subsequent
-
-holder of this office.
-
+1. To keep accurate records of all Florida Players revenues and expenditures.
+2. To serve as chair of the Finance Committee.
+3. To keep an accurate current balance of all Florida Players finances and to keep said balance available for review at all meetings.
+4. To maintain a close working relationship with the Student Government Treasurer the SG Finance Office, the Accountant and the Senate.
+5. To have co-sign authority with the President of Florida Players on all Student Acquisition Requests (SARs).
+6. To prepare the budget request proposal for Student Government Finance.
+7. To oversee the proposition of any and all special allocation requests and to attend the special allocation committee meetings.
+8. To ensure the delegation of funds from the overall Florida Players’ budget to their appropriate subgroups as pre-determined in the Year’s budget.
+9. To propagate budget changes proportionally through Florida Players and its subgroups.
+10. To serve as primary liaison between Florida Players and its subgroups.
+11. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
 12. To meet with the treasurer of all Florida
-Players subgroups twice every semester for a
+Players subgroups twice every semester for a report of the financial health of these subgroups.
+13. To plan and produce one workshop with assistance from the Assistant Artistic Director.
 
-report of the financial health of these subgroups.
 
-13. To plan and
-produce one workshop with assistance from the Assistant Artistic
-Director.
+### Section 5 – Production Manager (PM)
 
-4
+The responsibilities of the Production Manager shall be the following:
 
-Section 5 – Production Manager (PM)The responsibilities of the
-Production Manager shall be the following:
-
--   1.  ToserveaschairoftheProductionSelectionCommittee.
-
--   2.  To act as liaison between Florida Players and the representative in
-    charge of space scheduling and the upkeep of the performance and the
-    rehearsal spaces.
-
--   3.  To act as the liaison between Florida Players any technical
-    representative of the University of Florida School of Theater and
-    Dance, Digital Worlds and Florida Players.
-
--   4.  To act as liaison between the chosen directors and producers as well
-    as the Florida Players finance committee.
-
--   5.  To coordinate and successfully mount the Production season as
-    outlined in the Production Manager Operational Handbook.
-
--   6.  To oversee the submission of Student Acquisition Request (SARs)
-    related to the mounting of the production season.
-
--   7.  To manage the casting meeting held after callbacks every production
-    season and to regulate the posting of cast lists for each production.
-
--   8.  Tohandle,maintainandkeeponrecordthevariousProductionContracts.
-
--   9.  To ensure the eligibility of proposals in regards to the director’s
-    standing in his or her specific program within the University of
-    Florida’s School of Theater and Dance.
-
-10. To maintain an officer’s operational handbook to be passed down to
-the subsequent holder of this office.
-
+1. To serve as chair of the Production Selection Committee.
+2. To act as liaison between Florida Players and the representative in charge of space scheduling and the upkeep of the performance and the rehearsal spaces.
+3. To act as the liaison between Florida Players any technical representative of the University of Florida School of Theater and Dance, Digital Worlds and Florida Players.
+4. To act as liaison between the chosen directors and producers as well as the Florida Players finance committee.
+5. To coordinate and successfully mount the Production season as outlined in the Production Manager Operational Handbook.
+6. To oversee the submission of Student Acquisition Request (SARs) related to the mounting of the production season.
+7. To manage the casting meeting held after callbacks every production season and to regulate the posting of cast lists for each production.
+8. To handle, maintain and keep on record the various Production Contracts.
+9. To ensure the eligibility of proposals in regards to the director’s standing in his or her specific program within the University of Florida’s School of Theater and Dance.
+10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
 11. With the Artistic Director, to update proposal guidelines and New Works Proposal Guidelines and make them available to members at least 2 weeks before the proposal deadline.
-
 12. To plan and produce one workshop with assistance from the assistant artistic director. The office of Production Manager shall be succeeded by the Assistant Production Manager.
 
-Section 6 – Assistant Production Manager (APM)The responsibilities of
-the Assistant Production Manager shall be the following:
+### Section 6 – Assistant Production Manager (APM)
 
-1. To assist the Production Manager with any of the aforementioned
-responsibilities outlined in Article VI Section V.
+The responsibilities of the Assistant Production Manager shall be the following:
 
-2. To assist in
-keeping track of all Florida Players inventory and storage unit status
-and to arrange the return of any and all materials to the storage unit
-post-production in a timely manner.
+1. To assist the Production Manager with any of the aforementioned responsibilities outlined in Article VI Section V.
+2. To assist in keeping track of all Florida Players inventory and storage unit status and to arrange the return of any and all materials to the storage unit post-production in a timely manner.
+3. To coordinate and successfully production manage one show as specified by the Production team.
+4. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
+5. To plan and produce one workshop with the assistance from the assistant artistic director. The Assistant Production Manager shall succeed the office of Production Manager. The office of Assistant Production Manager shall be appointed by application by the Production manager with majority approved from the executive board.
 
-3. To coordinate and successfully production manage one show as specified
-by the Production team.
 
-4. To maintain an officer’s operational handbook
-to be passed down to the subsequent holder of this office.
+### Section 7 – Director of Publicity
 
-5. To plan and produce one workshop with the assistance from the
-assistant artistic director. The Assistant Production Manager shall
-succeed the office of Production Manager. The office of Assistant
-Production Manager shall be appointed by application by the Production
-manager with majority approved from the executive board.
-
-5
-
-Section 7 – Director of PublicityThe responsibilities of the Director
-of Publicist shall be the following:
+The responsibilities of the Director of Publicist shall be the following:
 
 1. To serve as chair of the Publicity Committee.
+2. To develop or delegate the development of all Florida Players production programs as defined in the Director of Publicity’s Operational Handbook, which shall meet the approval of the Director of Publicity and each productions director and producer.
+3. To send out all press releases public service announcements etc. Regarding all Florida Players productions, events and fundraisers as defined in the director of Publicity’s Operational Handbook.
+4. To keep track of all media published about Florida Players.a timely fashion prior to the show.
+5. With the Director of Special Events, to assure that all Florida Players meetings and events are adequately publicized at least two weeks in advance.
+6. In coordination with the Historian and each production’s producer, to ensure that Photocall takes place for each production.
+7. To plan and orchestrate the creation and hanging of a tarp for each production.
+8. To maintain an officer’s Operational Handbook to be passed down to the subsequent holder of this office.
+9. To plan and produce one workshop with assistance from the assistant artistic director
 
-2. To develop or
-delegate the development of all Florida Players production programs as
-defined in the Director of Publicity’s Operational Handbook, which shall
-meet the approval of the Director of Publicity and each productions
-director and producer.
+The office of Publicist shall be succeeded by the Assistant Publicist at the discretion of the executive board. The office of Assistant Publicist is a position appointed by application by the Publicist with approval of the executive board.
 
-3. To send out all press releases public service
-announcements etc. Regarding all Florida Players productions, events and
-fundraisers as defined in the director of Publicity’s Operational
-Handbook.
+### Section 8 – Assistant of Publicity (ADP)
 
-4. To keep track of all media published about Florida
-Players.a timely fashion prior to the show.
+The responsibilities of the Assistant Publicist shall be the following:
 
-6. With the Director of
-Special Events, to assure that all Florida Players meetings and events
-are adequately publicized at least two weeks in advance.
+1. To assist the Director of Publicity with any of the aforementioned responsibilities outlined in Article VI - Section VII
+2. To maintain and update the Press Contact List.
+3. To coordinate the house management for every Florida Players production as defined in the Officer’s Operational Handbook.
+4. To maintain an officer’s Operational Handbook to be passed down to the subsequent holder of this office.
+5. To plan and produce one workshop with assistance from the assistant artistic director.
 
-7. In
-coordination with the Historian and each production’s producer, to
-ensure that Photocall takes place for each production.
+The Assistant of Publicity is a position appointed by application by the Director of Publicity with approval by the executive committee.
 
-8. To plan and
-orchestrate the creation and hanging of a tarp for each production.
+### Section 9 – Director of Development and Events (Special Events)
 
-9.
-To maintain an officer’s Operational Handbook to be passed down to the
-subsequent holder of this office.
-
-10. To plan and produce one workshop
-with assistance from the assistant artistic director
-
-The office of Publicist shall be succeeded by the Assistant Publicist at
-the discretion of the executive board. The office of Assistant Publicist
-is a position appointed by application by the Publicist with approval of
-the executive board.
-
-Section 8 – Assistant of Publicity (ADP)The responsibilities of the
-Assistant Publicist shall be the following:
-
--   1.
-     ToassisttheDirectorofPublicitywithanyoftheaforementionedresponsibilitiesoutlined
-    in Article VI- Section VII
-
--   2.  TomaintainandupdatethePressContactList.
-
--   3.
-     TocoordinatethehousemanagementforeveryFloridaPlayersproductionasdefinedin
-    the Officer’s Operational Handbook.
-
--   4.
-     Tomaintainanofficer’sOperationalHandbooktobepasseddowntothesubsequent
-    holder of this office.
-
--   5.
-     Toplanandproduceoneworkshopwithassistancefromtheassistantartisticdirector
-
-The Assistant of Publicity is a position appointed by application by the
-Director of Publicity with approval by the executive committee.
-
-Section 9 – Director of Development and Events (Special Events)The
-responsibilities of the Director of Development and Events shall be the
-following:
+The responsibilities of the Director of Development and Events shall be the following:
 
 1. To serve as chair of the Development and Events Committee.
+2. To communicate with the Artistic Director and Director of Finance in regards to raising donations, expenditure and financing of events.
+3. To set a donation raising goal in the beginning of the year.
+4. To organize and oversee all donation raising for the organization.
+5. To coordinate with the Director of Publicity and Secretary regarding the publicity for said donation raising.
+6. To keep the Florida Players sponsorship letter updated.
+7. To organize and oversee all events excluding those assigned to the Production Management Team outlined in Article VI- Section 5 and Article VI Section 6 for the organization.
+8. To organize and oversee Banquet and a Holiday event at the discretion of the executive board.
+9. With the Assistant Artistic Director, to create and manage any new programs the Executive Board shall decide to implement in its experimental phase.
+10. With the Secretary, Director of Publicity and Director of Special Events, to assure that all Florida Players meetings and events are adequately publicized at least two weeks in advance.
+11. To coordinate the Opening Night Toast for each Florida Players Production.
+12. To maintain an officer’s Operational Handbook to be passed down to the subsequent holder of this office.
+13. To plan and produce one workshop with assistance from the assistant artistic director
 
-2. To
-communicate with the Artistic Director and Director of Finance in
-regards to raising
+### Section 10 – Web Manager
 
-donations, expenditure and financing of events.
+The responsibilities of the Web Manager shall be the following:
 
-3. To set a donation
-raising goal in the beginning of the year.
-
-6
-
--   4.  To organize and oversee all donation raising for the organization.
-
--   5.  To coordinate with the Director of Publicity and Secretary regarding
-    the publicity for said donation raising.
-
--   6.  To keep the Florida Players sponsorship letter updated.
-
--   7.  To organize and oversee all events excluding those assigned to the
-    Production Management Team outlined in Article VI- Section 5 and
-    Article VI Section 6 for the organization.
-
--   8.  To organize and oversee Banquet and a Holiday event at the
-    discretion of the executive board.
-
--   9.  With the Assistant Artistic Director, to create and manage any new
-    programs the Executive Board shall decide to implement in its
-    experimental phase.
-
-10. With the Secretary, Director of Publicity and Director of Special
-Events, to assure that all
-
-Florida Players meetings and events are adequately publicized at least
-two weeks in
-
-advance.
-
-11. To coordinate the Opening Night Toast for each Florida
-Players Production.
-
-12. To maintain an officer’s Operational Handbook to
-be passed down to the subsequent
-
-holder of this office.
-
-13. To plan and produce one workshop with
-assistance from the assistant artistic director
-
-Section 10 – Web ManagerThe responsibilities of the Web Manager shall
-be the following:
-
-1. to assure that the Florida Players website is constantly maintained
-and updated.
-
-2. To work with the Director of Finance and Director of
-Special events to ensure that the
-
-Website does not lapse.
-
-3. To maintain an officer’s Operational handbook
-to be passed down to the subsequent holder
-
-of this office.
-
-4. To plan and produce one workshop with assistance from
-the assistant artistic director
+1. to assure that the Florida Players website is constantly maintained and updated.
+2. To work with the Director of Finance and Director of Special events to ensure that the Website does not lapse.
+3. To maintain an officer’s Operational handbook to be passed down to the subsequent holder of this office.
+4. To plan and produce one workshop with assistance from the assistant artistic director
 
 The office of Web Manager shall be succeeded by the Assistant Web
 Manager at the discretion of the executive board and the Web Management
@@ -490,103 +343,54 @@ team. The office of Assistant Web Manager is a position appointed by
 application by the Web Manager with approval of the executive board and
 the Web Management team.
 
-Section 11 – Assistant Web ManagerThe responsibilities of the Assistant
-Web Manager shall be the following:
+### Section 11 – Assistant Web Manager
+
+The responsibilities of the Assistant Web Manager shall be the following:
 
 1. To assist the Web Manager in any way necessary.
-
-2. To maintain an
-officer’s handbook to be passed down to the subsequent holder of the
-
-officer.
-
-3. To plan and produce one workshop with assistance from the
-assistant artistic director
+2. To maintain an officer’s handbook to be passed down to the subsequent holder of the officer.
+3. To plan and produce one workshop with assistance from the assistant artistic director
 
 The Assistant Web Manager is a position appointed by application by the
 Web Manager with approval by the executive committee and the Web
 Management team.
 
-7
 
-Section 12 – HistorianThe responsibilities of the Historian shall be
+### Section 12 – HistorianThe responsibilities of the Historian shall be
 the following:
 
--   1.
-     Tokeepadigitalandpaperarchiveofallsavablecontentincludingbutnotlimitedto
-    posters, programs etc.
+1. To keep a digital and paper archive of all savable content including but not limited to posters, programs etc.
+2. In coordination with the publicist and each individual production’s producer, to ensure that a photo-call takes place for each Florida Players production.
+3. To acquire photos as a source for all members.
+4. To attend all Florida Players events and ensure that photos are taken at/of each event.
+5. To record and document Florida Players rehearsals, technical rehearsals and performances at the discretion of each production’s Director and Producer as outlined in their production contracts.
+6. To serve as resource of content for Director of Special Events.
+7. To maintain an alumni registry.
+8. To keep and maintain the Florida Players’ camera and insure that it is returned safely to the Florida Players’ Storage Unit on the off-season.
+9. To maintain a professional relationship with the Smathers Library Archivist and to archive documents and records throughout the year.
+10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
 
--   2.
-     Incoordinationwiththepublicistandeachindividualproduction’sproducer,toensurethat
-    a photo-call takes place for each Florida Players production.
+11. To plan and produce one workshop with assistance from the assistant artistic director
 
--   3.  Toacquirephotosasasourceforallmembers.
+### Section 13 – General Requirements of the Executive Board Officers 
 
--   4.  ToattendallFloridaPlayerseventsandensurethatphotosaretakenat/ofeachevent.
+#### Office hours
+- All officers are required to record no less than two (2) office hours per week or eight (8) office hours per month to ensure we retain said office in the Reitz Union, or another location, which requires members to put in hours to retain the office. This requirement may not be waived.
+- 
+#### Contracts
+- All Executive board members are required to sign their respective Rights and Responsibilities contracts prior to taking office. Being found in breach of contract may be grounds for impeachment at the discretion of the executive board.
 
--   5.
-     TorecordanddocumentFloridaPlayersrehearsals,technicalrehearsalsandperformances
-    at the discretion of each production’s Director and Producer as
-    outlined in their production contracts.
-
--   6.  ToserveasresourceofcontentforDirectorofSpecialEvents.
-
--   7.  Tomaintainanalumniregistry.
-
--   8.
-     TokeepandmaintaintheFloridaPlayers’cameraandinsurethatitisreturnedsafelyto
-    the Florida Players’ Storage Unit on the off-season.
-
--   9.
-     TomaintainaprofessionalrelationshipwiththeSmathersLibraryArchivistandtoarchive
-    documents and records throughout the year.
-
--   10.  To maintain an officer’s operational handbook to be passed down to
-    the subsequent holder of this office.
-
--   11.  To plan and produce one workshop with assistance from the assistant
-    artistic director
-
-Section 13 – General Requirements of the Executive Board Officers A.
-Office hours
-
-1. All officers are required to record no less than two (2) office hours
-per week or eight (8) office hours per month to ensure we retain said
-office in the Reitz Union, or another location, which requires members
-to put in hours to retain the office. This requirement may not be
-waived.
-
-B. Contracts
-
-1.
-AllExecutiveboardmembersarerequiredtosigntheirrespectiveRightsand
-
-Responsibilities contracts prior to taking office. Being found in breach
-of contract may
-
-be grounds for impeachment at the discretion of the executive board. C.
-Attendance
+#### Attendance
 
 Board members are required to attend:
-
-1.  All general body meetings
-
-2.  SOTD convocation
-
-3.  Opening nights of every Florida Players production
-
-4.  1 strike per semester
-
-5.  1 load – in per semester
-
-6.  1 build per semester
-
-7.  all events related to his or her department
-
-8.  \*Attendance of all builds load-ins and strikes to be coordinated at
-    beginning of the semester by the production team.
-
-8
+- All general body meetings
+- SOTD convocation
+- Opening nights of every Florida Players production
+- 1 strike per semester
+- 1 load – in per semester
+- 1 build per semester
+- all events related to his or her department
+- Attendance of all builds load-ins and strikes to be coordinated at beginning of the semester by the production team.
 
 If an officer is unable to attend for any reason, he must inform the
 Artistic Director no less than forty – eight (48) hours before the event
@@ -595,81 +399,32 @@ Players executive and general body meetings. If an officer is unable to
 attend for any reason, he must inform the Artistic Director no less than
 forty – eight (48) hours before the meeting is to take place.
 
-Section 14 – Leave of AbsenceA. In the event that an officer takes a
-lease of absence for medical or curricular reasons, so
+### Section 14 – Leave of Absence
 
-long as the leave does not directly interfere with his or her
-performance, the carrying out of duties as outlined in this constitution
-and his or her respective Executive board contract, and in meeting the
-point of requirement for membership outlined in Article V Section I, a
-special provision may be granted by the Executive Board for his or her
-to continue to hold this office during said leave.
+1. In the event that an officer takes a lease of absence for medical or curricular reasons, so long as the leave does not directly interfere with his or her performance, the carrying out of duties as outlined in this constitution and his or her respective Executive board contract, and in meeting the point of requirement for membership outlined in Article V Section I, a special provision may be granted by the Executive Board for his or her to continue to hold this office during said leave.
+2. Should the Executive Board find that the officer i nquestion has not maintained a standard of expectations outlined prior to their leave, the officer in question MUST forfeit their right to impeachment and is to step down at the request of the Executive Board. The Executive Board is to appoint an interim replacement until a special election can be held.
+3. In the vent that no eligible replacement can beappointed, the Assistant Artistic Director and/or the Artistic Director may step in and fulfill a positions executive duties until such a time when a replacement is selected or elected.
 
-B.
-ShouldtheExecutiveBoardfindthattheofficerinquestionhasnotmaintainedastandard
-of expectations outlined prior to their leave, the officer in question
-MUST forfeit their right to impeachment and is to step down at the
-request of the Executive Board. The Executive Board is to appoint an
-interim replacement until a special election can be held.
+### Section 15 – Impeachment of Executive Board Members
 
-C.
-Intheventthatnoeligiblereplacementcanbeappointed,theAssistantArtisticDirector
-and/or the Artistic Director may step in and fulfill a positions
-executive duties until such a time when a replacement is selected or
-elected.
+1. A motion to impeach an officer may be made by any voting member at any meeting. After discussion, a special meeting for the purpose of voting shall be scheduled to take place between seven (7) and ten (10) days after the motion I made. At this, meeting, a two-thirds (2/3) vote of the total Voting Membership present shall be necessary to remove that officer.
+2. All executive board members are required to sign their respective Rights and Responsibilities Contractions prior to taking office. Being found in breach of contract may be grounds for impeachment at the discretion of the Executive board.
+3. His or her office shall be filled by a special election immediately after conviction. This special election shall be presided over by the current President, or if the President has been removed, the meeting shall be presided over by the current Vice president unless this creates a conflict of interest.
+4. If the impeachment does not follow the procedure outlined in Article VII secton4 of the constitution then the impeachment is found to be null and void.
 
-Section 15 – Impeachment of Executive Board Members
+## Article VII – Elections
 
-A.  Amotiontoimpeachanofficermaybemadebyanyvotingmemberatanymeeting.After
-    discussion, a special meeting for the purpose of voting shall be
-    scheduled to take place between seven (7) and ten (10) days after
-    the motion I made. At this, meeting, a two-thirds (2/3) vote of the
-    total Voting Membership present shall be necessary to remove
-    that officer.
+### Section 1 – Election of the Executive Board
 
-B.  AllexecutiveboardmembersarerequiredtosigntheirrespectiveRightsand
-    Responsibilities Contractions prior to taking office. Being found in
-    breach of contract may be grounds for impeachment at the discretion
-    of the Executive board.
+1. Nominations of all elected board positions shall be made and closed at the last regular meeting of the spring semester in April.
+2. Nominees for each executive board position will be given the opportunity to speak before elections are held.
+3. The election of board members shall be held at the last meeting of the spring semester Using secret ballots. A plurality of quorum is needed for election.
+4. In the case of a vacancy in officer a meeting will be called to a elect a replacement, with election necessitation a plurality of total Voting Membership present.
+5. In the case of appointed positions, if no person applies for the position then a special election will be called during which an election for that position will be held at the discretion of the Executive Board.
+6. In the case of a tie between two nominees, a run—off election will be held between the top tiered nominees. A plurality of the total
+ Voting Membership is needed for election.
 
-C.  Hisorherofficeshallbefilledbyaspecialelectionimmediatelyafterconviction.This
-    special election shall be presided over by the current President, or
-    if the President has been removed, the meeting shall be presided
-    over by the current Vice president unless this creates a conflict
-    of interest.
-
-D.  If the impeachment does not follow the procedure outlined in Article
-    VII secton4 of the constitution then the impeachment is found to be
-    null and void.
-
-9
-
-Article VII – Elections
-
-Section 1 – Election of the Executive Board
-
-A.  Nominations of all elected board positions shall be made and closed
-    at the last regular meeting of the spring semester in April.
-
-B.  Nomineesforeachexecutiveboardpositionwillbegiventheopportunitytospeakbefore
-    elections are held.
-
-C.  Theelectionofboardmembersshallbeheldatthelastmeetingofthespringsemestersing
-    secret ballots. A plurality of quorum is needed for election.
-
-D.  In the case of a vacancy in officer a meeting will be called to a
-    elect a replacement, with election necessitation a plurality of
-    total Voting Membership present.
-
-E.  Inthecaseofappointedpositions,ifnopersonappliesforthepositionthenaspecial
-    election will be called during which an election for that position
-    will be held at the discretion of the Executive Board.
-
-F.  In the case of a tie between two nominees, a run—off election will
-    be held between the top tiered nominees. A plurality of the total
-    Voting Membership is needed for election.
-
-Section 2 – Election Policies
+### Section 2 – Election Policies
 
 A.  The current Artistic Director shall preside over all elections
     unless this creates a conflict of interest, in which case the
