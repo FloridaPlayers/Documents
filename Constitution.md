@@ -4,190 +4,76 @@
 
 ## Article I Name of Organization
 
-The name of this organization shall be Florida Players. This
-organization will utilize the initials FP in publicity material and
-correspondence.
+The name of this organization shall be Florida Players. This organization will utilize the initials FP in publicity material and correspondence.
 
 ## Article II – Mission Statement
 
-Florida Players is a student-run theater company providing opportunities
-and support for its members to explore, create, and showcase their
-discoveries within the world of theater. Florida players is sponsored by
-UF Student Government and open to all University of Florida students
-regardless of major as well as the greater Gainesville community.
-Florida Players offers members the chance to explore all aspects of
-theater, including but not limited to: direction; design; performance;
-and play-writing, as well as leadership positions. Florida Players also
-acts as an umbrella organization for the dance company Floridance.
+Florida Players is a student-run theater company providing opportunities and support for its members to explore, create, and showcase their discoveries within the world of theater. Florida players is sponsored by UF Student Government and open to all University of Florida students regardless of major as well as the greater Gainesville community. Florida Players offers members the chance to explore all aspects of theater, including but not limited to: direction; design; performance; and play-writing, as well as leadership positions. Florida Players also acts as an umbrella organization for the dance company Floridance.
 
 ## Article III Compliance Statement
 
-Upon approval by the Department of Student Activities and Involvement,
-Florida Players shall be a registered student organization at the
-University of Florida. Florida Players shall comply with all local,
-state, and federal laws, as well as all University of Florida
-regulations, policies, and procedures. Such compliance includes, but is
-not limited to, the university’s regulations related to
-non-discrimination, sexual harassment (including sexual misconduct,
-dating violence, domestic violence, and stalking), hazing, commercial
-activity, and student leader eligibility.
+Upon approval by the Department of Student Activities and Involvement, Florida Players shall be a registered student organization at the University of Florida. Florida Players shall comply with all local, state, and federal laws, as well as all University of Florida regulations, policies, and procedures. Such compliance includes, but is not limited to, the university’s regulations related to non-discrimination, sexual harassment (including sexual misconduct, dating violence, domestic violence, and stalking), hazing, commercial activity, and student leader eligibility.
 
 ## ARTICLE IV University Regulations
 
-In order to be registered, student organizations must comply with the
-University of Florida’s Non- Discrimination, Sexual Harassment, and
-Hazing Policies. Constitutions must include the verbatim sections below.
-A student organization whose primary purpose is religious will not be
-denied registration as a Registered Student Organization on the ground
-that it limits membership or leadership positions to students who share
-the religious beliefs of the organization. The University has determined
-that this accommodation of religious belief does not violate its
-Non-Discrimination policy.
+In order to be registered, student organizations must comply with the University of Florida’s Non- Discrimination, Sexual Harassment, and Hazing Policies. Constitutions must include the verbatim sections below. A student organization whose primary purpose is religious will not be denied registration as a Registered Student Organization on the ground that it limits membership or leadership positions to students who share the religious beliefs of the organization. The University has determined that this accommodation of religious belief does not violate its Non-Discrimination policy.
 
 ### Section A. Non-Discrimination
 
-Florida Players agrees that it will not discriminate on the basis of
-race, creed, color, religion, age, disability, sex, sexual orientation,
-gender identity and expression, marital status, national origin,
-political opinions or affiliations, genetic information and veteran
-status as protected under the Vietnam Era Veterans' Readjustment
-Assistance Act.
+Florida Players agrees that it will not discriminate on the basis of race, creed, color, religion, age, disability, sex, sexual orientation, gender identity and expression, marital status, national origin, political opinions or affiliations, genetic information and veteran status as protected under the Vietnam Era Veterans' Readjustment Assistance Act.
 
 ### Section B. Sexual Harassment
 
-Florida Players agrees that it will not engage in any activity that is
-unwelcome conduct of sexual nature that creates a hostile environment.
+Florida Players agrees that it will not engage in any activity that is unwelcome conduct of sexual nature that creates a hostile environment.
 
 ### Section C. Hazing
 
-Florida Players agrees that it will not initiate, support, or encourage
-any events or situations that recklessly, by design, or intentionally
-endanger the mental or physical health or safety of a student for any
-purpose including but not limited to initiation or admission into or
-affiliation with any student group or organization.
+Florida Players agrees that it will not initiate, support, or encourage any events or situations that recklessly, by design, or intentionally endanger the mental or physical health or safety of a student for any purpose including but not limited to initiation or admission into or affiliation with any student group or organization.
 
 ### Section D. Responsibility to Report
 
-If this organization becomes aware of any such conduct described in this
-article, Florida Players will report it immediately to Student
-Activities and Involvement, the Director of Student Conduct and Conflict
-Resolution, or the University’s Title IX Coordinator.
+If this organization becomes aware of any such conduct described in this article, Florida Players will report it immediately to Student Activities and Involvement, the Director of Student Conduct and Conflict Resolution, or the University’s Title IX Coordinator.
 
 ## ARTICLE V – Membership
 
-Membership in this organization is open to all enrolled students at the
-University of Florida. Non-enrolled students, spouses, faculty, and
-staff may be associate members, however, they may not vote or hold
-office. All members and associate members are free to leave and
-disassociate without fear of retribution, retaliation, or harassment.
+Membership in this organization is open to all enrolled students at the University of Florida. Non-enrolled students, spouses, faculty, and staff may be associate members, however, they may not vote or hold office. All members and associate members are free to leave and disassociate without fear of retribution, retaliation, or harassment.
 
 ## ARTICLE VI- Officers
 
-The Officers of Florida Players are the members of the Executive Board.
-Term of office for each position may last no longer than one (1. year
-with possibility of reelection. These officers shall be announced and
-honored at both the UF SOTD convocation and Florida Player’s annual
-banquet. They will officially be installed at the close of the mandatory
-Transition Meeting. The Transition Meeting will consist of break–out
-sessions in which the old board member will conference with the new
-board member and hand over a working handbook for the position. This
-meeting will also include an open forum between the old board and new
-board to allow for questions and discussion. At this meeting, all
-incoming and returning board members will sign his or her Rights and
-Responsibilities Contract. The old secretary will close the meeting at
-which time their terms of office will commence. All positions are
-elected by the voting membership with the exception of Assistant
-Webmaster and Director of Publicity, which are appointed.
+The Officers of Florida Players are the members of the Executive Board. Term of office for each position may last no longer than one (1) year with possibility of reelection. These officers shall be announced and honored at both the UF SOTD convocation and Florida Player’s annual banquet. They will officially be installed at the close of the mandatory Transition Meeting. The Transition Meeting will consist of break–out sessions in which the old board member will conference with the new board member and hand over a working handbook for the position. This meeting will also include an open forum between the old board and new board to allow for questions and discussion. At this meeting, all incoming and returning board members will sign his or her Rights and Responsibilities Contract. The old secretary will close the meeting at which time their terms of office will commence. All positions are elected by the voting membership with the exception of Assistant Webmaster and Director of Publicity, which are appointed.
 
 ### Section 1 – President/ Artistic Director
 
-1. To preside over all Florida Players meetings and conduct or delegate
-all Florida Players business.
-
+1. To preside over all Florida Players meetings and conduct or delegate all Florida Players business.
 2. To serve as ex-officio of all Florida Players committees.
-
 3. To serve as chair of the Executive Board.
-
 4. To call special meetings of the Florida Players general body of the
 Executive Board when he or she deems such action necessary.
-
-5. To conduct meetings in accordance with Roberts Rules of Order if she
-or he deems necessary. The necessity of Roberts Rules of Order will be
-determined at the final executive board meeting previous to the general
-body meeting. Roberts Rules of Order can be found at
-http://www.robertsrules.com/
-
-6. To have Co-sign authority with the Director of Finance on all Student
-Acquisition Requests (SARs).
-
+5. To conduct meetings in accordance with Roberts Rules of Order if she or he deems necessary. The necessity of Roberts Rules of Order will be determined at the final executive board meeting previous to the general body meeting. Roberts Rules of Order can be found at http://www.robertsrules.com/
+6. To have Co-sign authority with the Director of Finance on all Student Acquisition Requests (SARs).
 7. To coordinate all master classes sponsored by the organization.
-
-8. To serve as liaison to the University of Florida’s School of Theater
-and Dance as a whole on behalf of Florida Players.
-
-9. To report on the state of Florida Players to the University of
-Florida’s School of Theater and Dance at the University of Florida’s
-School of Theater and Dance Faculty meeting a least once each semester.
-
-10. With the assistant artistic director, to arrange for private
-meetings with each officer on the executive committee to discuss
-performance and any personal disputes twice a semester, once halfway
-through the fall/spring semester and once at the end of the fall/spring
-semester.
-
-11. To maintain an officer’s operational handbook to be passed down to
-the subsequent holder of this office.
-
-12. To arrange regularly scheduled board meetings and to attend every
-arranged board meeting.
-
-13. To sit in at auditions, callbacks and the casting meeting and to
-give input at these events if solicited.
-
-14. The artistic director holds the right to sit in on any meeting as
-long as they have given the appropriate person 24-hour notice.
-
-15. To plan and produce one workshop with assistance from the assistant
-artistic director.
+8. To serve as liaison to the University of Florida’s School of Theater and Dance as a whole on behalf of Florida Players.
+9. To report on the state of Florida Players to the University of Florida’s School of Theater and Dance at the University of Florida’s School of Theater and Dance Faculty meeting a least once each semester.
+10. With the assistant artistic director, to arrange for private meetings with each officer on the executive committee to discuss performance and any personal disputes twice a semester, once halfway through the fall/spring semester and once at the end of the fall/spring semester.
+11. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
+12. To arrange regularly scheduled board meetings and to attend every arranged board meeting.
+13. To sit in at auditions, callbacks and the casting meeting and to give input at these events if solicited.
+14. The artistic director holds the right to sit in on any meeting as long as they have given the appropriate person 24-hour notice.
+15. To plan and produce one workshop with assistance from the assistant artistic director.
 
 ### Section 2 – Vice President/ Assistant Artistic Director
 
-The office of Assistant Artistic Director shall be equivalent to the
-office of Vice President as per Student Government regulations. The
-office shall be referred to only as Assistant Artistic Director. The
-responsibilities of the Assistant Artistic Director shall be the
-following:
+The office of Assistant Artistic Director shall be equivalent to the office of Vice President as per Student Government regulations. The office shall be referred to only as Assistant Artistic Director. The responsibilities of the Assistant Artistic Director shall be the following:
 
-1. To assume the duties of any officer in the event of their absence of
-inability at the discretion of the executive board and to serve until a
-special election is held. 
-
+1. To assume the duties of any officer in the event of their absence of inability at the discretion of the executive board and to serve until a special election is held. 
 2. To serve as parliamentarian at all general body meetings.
-
-3. To serve as liaison between Florida Players and the greater UF and
-Gainesville community.
-
+3. To serve as liaison between Florida Players and the greater UF and Gainesville community.
 4. To turn in all office log hours at the end of every month.
-
-5. To oversee the planning, scheduling, and execution of regularly
-scheduled workshops, to be defined later in this constitution.
-
-6. To over see the mentorship program to be defined later in this
-constitution. 
-
-7. To create and manage, with the Special Events Director, any new
-programs the Executive Board shall decide to implement in its
-experimental phase. (Staged readings)
-
-8. With the Artistic Director, to arrange for private meetings with each
-officer on the Executive Board to discuss performances and any
-professional disputes twice during a semester, ones halfway through the
-fall/spring semester and once again at the end of the fall/spring
-semesters.
-
-9. To appoint an Executive board member to attend each meeting of the
-Student Government Senate and the Fine Arts College Council. 
-
+5. To oversee the planning, scheduling, and execution of regularly scheduled workshops, to be defined later in this constitution.
+6. To over see the mentorship program to be defined later in this constitution. 
+7. To create and manage, with the Special Events Director, any new programs the Executive Board shall decide to implement in its experimental phase. (Staged readings)
+8. With the Artistic Director, to arrange for private meetings with each officer on the Executive Board to discuss performances and any professional disputes twice during a semester, ones halfway through the fall/spring semester and once again at the end of the fall/spring semesters.
+9. To appoint an Executive board member to attend each meeting of the Student Government Senate and the Fine Arts College Council. 
 10. To reserve space for general body meetings. (Workshops as well.)
 
 ### Section 3 – Secretary
@@ -195,48 +81,22 @@ Student Government Senate and the Fine Arts College Council.
 The responsibilities of the Secretary shall be the following:
 
 1. To keep minutes of all Florida Players meetings.
-
-2. To coordinate minutes from all committee meetings and to report the
-same to the Executive Committee.
-
+2. To coordinate minutes from all committee meetings and to report the same to the Executive Committee.
 3. To keep a record of attendance of the Voting Membership.
-
-4. To keep a record of attendance of the Executive Board and to notify
-the Executive board of any excessive absences.
-
-5. To receive and organize applications for membership in Florida
-Players.
-
-6. To keep the minutes of all Executive Board meetings and to report the
-same to the voting membership at each subsequent Florida Players
-meetings.
-
+4. To keep a record of attendance of the Executive Board and to notify the Executive board of any excessive absences.
+5. To receive and organize applications for membership in Florida Players.
+6. To keep the minutes of all Executive Board meetings and to report the same to the voting membership at each subsequent Florida Players meetings.
 7. To notify all current members of the time and place of all meetings.
-
-8. To keep track of all members’ Florida Players points and member
-status.
-
+8. To keep track of all members’ Florida Players points and member status.
 9. To assign points as seen fit for undefined production positions.
-
-10. To maintain an officer’s operational handbook to be passed down to
-the subsequent holder of this office.
-
-11. To keep and maintain the designated Florida Players Board in the
-School of Theater and Dance hallway.
-
-12. To maintain the integrity and proofread of all records and official
-Florida Players publicity, social media, and paperwork. (Programs, email
-as well)
-
-13. To plan and produce one workshop with assistance from the Assistant
-Artistic Director.
+10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
+11. To keep and maintain the designated Florida Players Board in the School of Theater and Dance hallway.
+12. To maintain the integrity and proofread of all records and official Florida Players publicity, social media, and paperwork. (Programs, email as well)
+13. To plan and produce one workshop with assistance from the Assistant Artistic Director.
 
 ### Section 4 – Treasurer/Director of Finance
 
-The office of Director of Finance shall be equivalent to the office of
-Treasurer as per Student Government regulations. The office shall here
-in be referred to only as Director of Finance. The responsibilities of
-the Director of Finance shall be the following:
+The office of Director of Finance shall be equivalent to the office of Treasurer as per Student Government regulations. The office shall here in be referred to only as Director of Finance. The responsibilities of the Director of Finance shall be the following:
 
 1. To keep accurate records of all Florida Players revenues and expenditures.
 2. To serve as chair of the Finance Committee.
@@ -370,7 +230,6 @@ The responsibilities of the Historian shall be the following:
 8. To keep and maintain the Florida Players’ camera and insure that it is returned safely to the Florida Players’ Storage Unit on the off-season.
 9. To maintain a professional relationship with the Smathers Library Archivist and to archive documents and records throughout the year.
 10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-
 11. To plan and produce one workshop with assistance from the assistant artistic director
 
 ### Section 13 – General Requirements of the Executive Board Officers 
