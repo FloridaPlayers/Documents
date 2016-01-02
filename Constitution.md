@@ -1,6 +1,5 @@
-## Florida Players Constitution 
-
-## Updated: May 2014
+# Florida Players Constitution 
+*Updated: May 2014*
 
 ## Article I Name of Organization
 
