@@ -429,370 +429,191 @@ forty – eight (48) hours before the meeting is to take place.
 
 ### Section 2 – Election Policies
 
-A.  The current Artistic Director shall preside over all elections
-    unless this creates a conflict of interest, in which case the
-    Assistant Artistic Director or the Faculty Advisor shall preside.
+1. The current Artistic Director shall preside over all elections unless this creates a conflict of interest, in which case the Assistant Artistic Director or the Faculty Advisor shall preside.
+2. Secret ballots shall be used at all elections
+3. Absentee ballotting is NOT permitted in any election
+4. Special elections may be called by the Artistic Director as necessary.
+5. Election results shall be posted no later than forty-eight (48) hours after the election.
+6. Two Executive board members will count the ballots. The Faculty Advisor shall be present at this counting. No Executive committee members running in said election may be permitted to count ballots.
+7. Nominees must be present at the election to accept an elected position.
+8. Florida Players WILL NOT be allowed to preside over the elections of its subgroups. Officers may provide assistance to the request of the subgroup but all elections for a subgroup will be upheld to the letter of that sub-group’s constitution. The officers may provide assistance in any way requested with the exception of influencing elections.
 
-B.  Secretballotsshallbeusedatallelections
+### Section 3 - Eligibility
 
-C.  AbsenteeallottingisNOTpermittedinanyelection
+Executive Board Requirements:
 
-D.  Special elections may be called by the Artistic Director
-    as necessary.
+1. All potential elected board members must have held a voting membership in Florida Players for two (2) semesters before the date of election. This may include the semester in which the election was held. If no interested parties meet these requirements, exceptions for one (1) semester of membership may be made at the discretion of the Executive Board.
+2. All potential appointed board members must submit a letter of intent and a resume to the board member who currently holds the position or senior position in which he or she is interested. It is suggested that appointed board members should have held voting membership in Florida Players for two (2) semesters before appointment; however, if no interested parties meet this requirement, exceptions for one (1) semester of membership may be made at the discretion of the Executive Board.
+3. All potential board members must meet all requirements of the Student Organization Officers put forward by the Office of Student Activities.
+4. All potential board members must have the awareness of and willingness to accept the responsibilities of the office as outlined in Article IV of this constitution and are required to sign the respective Rights and Responsibilities Contracts prior to taking their position.
+5. It is highly recommended that those who run for a board position sit on a standing committee for at least one (1) semester.
 
-E.  Electionresultsshallbepostednolaterthanforty-eight(48)hoursaftertheelection.
-
-F.  Two Executive board members will count the ballots. The Faculty
-    Advisor shall be present at this counting. No Executive committee
-    members running in said election may be permitted to count ballots.
-
-G.  Nominees must be present at the election to accept an
-    elected position.
-
-H.  Florida Players WILL NOT be allowed to preside over the elections of
-    its subgroups. Officers may provide assistance to the request of
-    the subgroup but all elections for a subgroup will be upheld to the
-    letter of that sub-group’s constitution. The officers may provide
-    assistance in any way requested with the exception of
-    influencing elections.
-
-Section 3- EligibilityA. Executive Board Requirements:
-
--   1.
-     AllpotentialelectedboardmembersmusthaveheldavotingmembershipinFlorida
-    Players for two (2) semesters before the date of election. This may
-    include the semester in which the election was held. If no
-    interested parties meet these requirements, exceptions for one (1)
-    semester of membership may be made at the discretion of the
-    Executive Board.
-
--   2.
-     Allpotentialappointedboardmembersmustsubmitaletterofintentandaresumeto
-    the board member who currently holds the position or senior position
-    in which he or she is interested. It is suggested that appointed
-    board members should have held voting membership in Florida Players
-    for two (2) semesters before appointment; however, if
-
-10
-
-no interested parties meet this requirement, exceptions for one (1)
-semester of
-
-membership may be made at the discretion of the Executive Board.
-
--   3.
-     AllpotentialboardmembersmustmeetallrequirementsoftheStudentOrganization
-    Officers put forward by the Office of Student Activities.
-
--   4.
-     Allpotentialboardmembersmusthavetheawarenessofandwillingnesstoacceptthe
-    responsibilities of the office as outlined in Article IV of this
-    constitution and are required to sign the respective Rights and
-    Responsibilities Contracts prior to taking their position.
-
--   5.  Itishighlyrecommendedthatthosewhorunforaboardpositionsitonastanding
-    committee for at least one (1) semester.
-
-Section 4 – Replacement and Removal of Production Selection Committee
+### Section 4 – Replacement and Removal of Production Selection Committee
 Members
 
-A.  Production Selection Committee members who are not fulfilling their
-    duties as outlined in Article XII – Section 3 of this Constitution
-    shall be removed from their seat by a majority vote of the
-    Executive Board.
+1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
+2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the nest regularly held general meeting. 
 
-B.  TheExecutiveBoardshallimmediatelyappointaFloridaPlayersvotingmemberto
-    fill the vacancy. This appointment shall be approved by the voting
-    membership at the nest regularly held general meeting. Article VIII
-    – Faculty Advisor
+## Article VIII – Faculty Advisor
 
-Section 1 – ResponsibilityThe responsibilities of the Faculty Advisor
-shall be the following:
+### Section 1 – Responsibility
 
--   1.  TobepresentatallscheduledFloridaPlayersvotingmeetingsincludingbutnot
-    limited to, elections and impeachments.
+The responsibilities of the Faculty Advisor shall be the following:
 
--   2.  Toserveasanex-officiomemberonallFloridaPlayersstandingcommittees.
+1. To be present at all scheduled Florida Players voting meetings including but not limited to, elections and impeachments.
+2. To serve as an ex-officio member on all Florida Players standing committees.
+3. To serve as a liaison between Florida Players and the University of Florida’s School of Theater and Dance.
 
--   3.
-     ToserveasaliaisonbetweenFloridaPlayersandtheUniversityofFlorida’sSchoolof
-    Theater and Dance.
+### Section 2 – Appointment of the Faculty Advisor
 
-Section 2 – Appointment of the Faculty Advisor
+1. The faculty Advisor shall be appointed by the majority vote of the Executive Board in the fall semester.
+2. The faculty advisory must be a faculty or staff member employed at UF.
+3. Term of office for Faculty Advisor may last not longer than one (1) year with possibility of re-appointment.
 
-A.  ThefacultyAdvisorshallbeappointedbythemajorityvoteoftheExecutiveBoardin
-    the fall semester.
+### Section 3 – Process of Replacement
 
-B.  ThefacultyadvisorymustbeafacultyorstaffmemberemployedatUF.
+1. In the event where the Faculty Advisor steps down from their position for whatever reason, the Florida Players Executive Board will hold a meeting with the University of Florida’s School of Theatre and Dance Director.
+2. Upon recommendation by the director, the executive board will vote in a new Advisor
 
-C.  TermofofficeforFacultyAdvisormaylastnotlongerthanone(1)yearwith
-    possibility of re-appointment.
+## Article IX – Finance
 
-Section 3 – Process of Replacement
+### Section 1 – Source of Funding
 
-a\. In the event where the Faculty Advisor steps down from their position
-for whatever reason, the Florida Players Executive Board will hold a
-meeting with the University of Florida’s School of Theatre and Dance
-Director.
+The Florida Players Director of Finance shall prepare and submit a budget request each year in order to request funding from Student Government. Other finances are derived from donations made by individuals, corporations or departments. There
+are no dues charged to any members of this organization.
 
-b\. Upon recommendation by the director, the executive board will vote in
-a new Advisor
+### Section 2 – Management
 
-Article IX – Finance
+1. The finances of Florida Players are to be managed by the Director of Finance and the finance committee of Florid Players according to the policies outlined by Student Government.
+2. The management of Florida Players finances comes in the discretion of the Treasurer of Student Government of the University of Florida.
 
-Section 1 – Source of FundingThe Florida Players Director of Finance
-shall prepare and submit a budget request each year in order to request
-funding from Student Government. Other finances are derived
+### Section 3 - Budgets
 
-11
+Budgets are to be submitted to the Student Government of the University of Florida at such times and in such a manner as may be prescribed by the by-laws of that body. The budgets are to be prepared by the Florida Players Treasurer and the Finance Committee. Before the budget is submitted it must be approved by a simple majority of the Executive Board.
 
-from donations made by individuals, corporations or departments. There
-are no dues charged to any members of this organization.Section 2 –
-Management
+### Section 4 – Special Allocations
 
-A.  The finances of Florida Players are to be managed by the Director of
-    Finance and the finance committee of Florid Players according to
-    the policies outlined by Student Government.
+Special Allocations are to be submitted to the Student Government of the University of Florida at the discretion of the Production Manager and Director of Finance. Before the Special Allocation is submitted it must be approved by a simple majority of the Executive Board.
 
-B.  ThemanagementofFloridaPlayersfinancescomesinthediscretionoftheTreasurer
-    of Student Government of the University of Florida.
+## Article X - Dissolution of Organization
 
-Section 3 - BudgetsBudgets are to be submitted to the Student
-Government of the University of Florida at such times and in such a
-manner as may be prescribed by the by-laws of that body. The budgets are
-to be prepared by the Florida Players Treasurer and the Finance
-Committee. Before the budget is submitted it must be approved by a
-simple majority of the Executive Board.
+In the event this organization dissolved, all money left in outside revenue, after outstanding debts and claims have been paid, and all other assets after liquidated, shall be donated to Broadway Cares Equity Fights AIDS.
 
-Section 4 – Special AllocationsSpecial Allocations are to be submitted
-to the Student Government of the University of Florida at the discretion
-of the Production Manager and Director of Finance. Before the Special
-Allocation is submitted it must be approved by a simple majority of the
-Executive Board.
+## Article XI – Meetings
 
-Article X Dissolution of Organization
+### Section 1 - Meeting Times
 
-In the event this organization dissolved, all money left in outside
-revenue, after outstanding debts and claims have been paid, and all
-other assets after liquidated, shall be donated to Broadway Cares Equity
-Fights AIDS.
+1. Florida Players shall call a general meeting of the Full membership at 5:00pm or 5:30pm on the first Wednesday of each month of the fall and spring semesters in a place to be determined by the Artistic Director.
+2. Special meetings are called by the Artistic Director as he or she deems necessary.
 
-Article XI – Meetings
+### Section 2 – Meeting Policies
 
-Section 1 - Meeting Times
+Florida Players shall maintain the following policies for all general and committee meetings:
 
-A.  FloridaPlayersshallcallageneralmeetingoftheFullmembershipat5:00pmor
-    5:30pm on the first Wednesday of each month of the fall and spring
-    semesters in a place to be determined by the Artistic Director.
+1. all meetings shall be open.
+2. All committees must take minute of thei rmeetings. The chair of each committee shall provide them to the origination’s Secretary in due time, and give a report at each Florida Players general meeting.
+3. All meeting times, locations and agenda must be posted at least forty-right (48) hours in advance, except in the case of special meetings called by the chair of that committee or the President of Florida Players.
+4. No other Florid Players related event is allowed to occur during scheduled general body meetings.
 
-B.  SpecialmeetingsarecalledbytheArtisticDirectorasheorshedeemsnecessary.
+## Article XII - Programs and Special Events
 
-Section 2 – Meeting PoliciesFlorida Players shall maintain the
-following policies for all general and committee meetings:
+### Section 1 – Programs
 
--   1.  allmeetingsshallbeopen.
+Florida Players shall maintain the following programs outside for the Production Season:
 
--   2.
-     Allcommitteesmusttakeminuteoftheirmeetings.Thechairofeachcommitteeshall
-    provide them to the origination’s Secretary in due time, and give a
-    report at each Florida Players general meeting.
-
--   3.
-     Allmeetingtimes,locationsandagendamustbepostedatleastforty-right(48)hours
-    in advance, except in the case of special meetings called by the
-    chair of that committee or the President of Florida Players.
-
-12
-
-4.
-NootherFloridPlayersrelatedeventisallowedtooccurduringscheduledgeneral
-body meetings.
-
-Article XII Programs and Special Events
-
-Section 1 – ProgramsFlorida Players shall maintain the following
-programs outside for the Production Season:
-
--   1.  MentorshipProgram
-
-    a.  Florida Players will provide its newer members to be mentored by
-        seasoned Florida Players in a constructive manner.
-
-    b.  Florida Players will hold events to foster meaningful
-        mentor/mentee relationships.
-
--   2.  MonthlyWorkshops
-
-a\. Florida Players will provide its members with a monthly workshop as
-coordinated by
-
-the Assistant Artistic Director. 
-
+1. Mentorship Program
+ 1. Florida Players will provide its newer members to be mentored by seasoned Florida Players in a constructive manner.
+ 2. Florida Players will hold events to foster meaningful mentor/mentee relationships.
+2. Monthly Workshops
+ 1. Florida Players will provide its members with a monthly workshop as coordinated by the Assistant Artistic Director. 
 3. NewPrograms
+ 1. Florida Players may undertake new programs at the discretion of the Executive Board without amending this Constitution as long as the new program remains in its experimental phase.
+ 2. Once a new program has reached maturation this Constitution must be amended for its continued existence.
 
-a.  Florida Players may undertake new programs at the discretion of the
-    Executive Board without amending this Constitution as long as the
-    new program remains in its experimental phase.
+### Section 2- Special Events
 
-b.  Once a new program has reached maturation this Constitution must be
-    amended for its continued existence.
+Florida Players shall maintain the following events outside of the Production Season:
 
-Section 2- Special EventsFlorida Players shall maintain the following
-events outside of the Production Season:
+1. Florida Players annual events including the:
+ 1. End-of-the-Year Florida Players Banquet (Mandatory)
+ 2. Florida Players Holiday Party (Optional)
+2. Show specific events seeking to gain financial support from alternative sources.
+3. Community service events and programs such as Relay for Life
+4. Events coordinated by the Mentorship program
+5. Workshops
+6. Various events to promote Florida Players sense of community
 
--   1.  FloridaPlayersannualeventsincludingthe:
+## Article XIII – Standing Committees
 
-    i.  End-of – the –Year Florida Players Banquet (Mandatory)
+Florida Players shall have the following standing committees: 
+- The Executive Committee (Board)
+- the Finance Committee
+- the Production Selection Committee
+- the Special Events Committee
+- The Publicity Committee
+- the Community Outreach Committee
 
-    ii. Florida Players Holiday Party (Optional)
+### Section 1 – TheExecutive Committee (Board)
 
--   2.  Showspecificeventsseekingtogainfinancialsupportfromalternativesources.
+This board shall consist of the Artistic Director, who shall serve as chair, the Assistant Artistic Director, the Secretary, the Director of Finance, the Production Manager, the Assistant Production Manger, the Director of Publicity, the Assistant Director of Publicity, the Director of Special Events, the Web Manager, the Assistant Web Manager and the Historian. The Faculty Advisor shall serve as ex-officio member of this committee. The duties of the Executive Board shall be the following:
 
--   3.  CommunityserviceeventsandprogramssuchasRelayforLife
+1. To enforce and interpret this constitution according to the three-fold artistic mission of this organization.
+2. To expedite Florida Players policy
+3. To act as liaison Board to all outside organizations as well as those organizations under the umbrella of Florida Players.
+4. To review the Florida Players Constitution annually no later than at the start of the spring semester and make changes as seen fit.
 
--   4.  EventscoordinatedbytheMentorshipprogram
+### Section 2 – Finance Committee
 
--   5.  Workshops
+This committee shall consist of the Director of Finance, who shall serve as the chair, any interested Florida Players member approved by the Director of Finance. Sub-groups named in Article II of this constitution are encouraged to select a member to serve as a representative on the finance committee. The Faculty Advisor shall serve as an ex-officio member on this committee. The duties of the Finance Committee shall be the following:
 
--   6.  VariouseventstopromoteFloridaPlayerssenseofcommunity Article XIII –
-    Standing Committees
+1. to create the overall budget for Florida Players.
+2. To oversee all revenues and expenditures of Florida Players
+3. To approve the budgets of all sub-groups named in Article II of this Constitution under the umbrella organization Florida Players.
+4. To allocate Student Government Funds to produce quality and free entertainment for the University and its Students.
 
-Florida Players shall have the following standing committers: The
-Executive Committee (Board), the Finance Committee, the Production
-Selection Committee, the Special Events Committee, The Publicity
-Committee and the Community Outreach Committee.Section 1 – The
-Executive Committee (Board)
+### Section 3 – Production Selection Committee
 
-This board shall consist of the Artistic Director, who shall serve as
-chair, the Assistant Artistic Director, the Secretary, the Director of
-Finance, the Production Manager, the Assistant Production Manger, the
-Director of Publicity, the Assistant Director of Publicity, the Director
-of Special Events, the Web Manager, the Assistant Web Manager and the
-Historian. The Faculty Advisor shall serve as ex-officio member of this
-committee. The duties of the Executive Board shall be the following:
+This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players Voting Membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theater.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
 
-13
+1. To read all proposals and plays and come prepared to the selection committee hearing ready to discuss each proposal.
+2. To uphold the constitution when making selections.
+3. To be free of bias when voting for proposals.
 
--   1.
-     Toenforceandinterpretthisconstitutionaccordingtothethree-foldartisticmissionofthis organization.
+### Section 4 – Special Events Committee
 
--   2.  ToexpediteFloridaPlayerspolicy
+This committee shall consist of the Director of Special Events, who shall serve as the chair and any interested Florida Players members as approved by the Director of Special Events. The duties of this committee shall be the following:
 
--   3.
-     ToactasliaisonBoardtoalloutsideorganizationsaswellasthoseorganizationsunderthe
-    umbrella of Florida Players.
-
--   4.
-     ToreviewtheFloridaPlayersConstitutionannuallynolaterthanatthestartofthespring
-    semester and make changes as seen fit.
-
-Section 2 – Finance CommitteeThis committee shall consist of the
-Director of Finance, who shall serve as the chair, any interested
-Florida Players member approved by the Director of Finance. Sub-groups
-named in Article II of this constitution are encouraged to select a
-member to serve as a representative on the finance committee. The
-Faculty Advisor shall serve as an ex-officio member on this committee.
-The duties of the Finance Committee shall be the following
-
--   1.  tocreatetheoverallbudgetforFloridaPlayers.
-
--   2.  TooverseeallrevenuesandexpendituresofFloridaPlayers
-
--   3.
-     Toapprovethebudgetsofallsub0groupsnamedinArticleIIofthisConstitutionunderthe
-    umbrella organization Florida Players.
-
--   4.
-     ToallocateStudentGovernmentFundstoproducequalityandfreeentertainmentforthe
-    University and its Students.
-
-Section 3 – Production Selection CommitteeThis committee shall consist
-of the Production Manager, who shall serve as the chair, the Assistant
-Production Manager and six (6) students to be elected by the Florida
-Players Voting Membership. It is highly recommended that these six (6)
-shall be: a graduate performance student, a graduate production student,
-an undergraduate performance student, and undergraduate production
-student, an undergraduate stage manager and a dance student. These
-selection committee members shall be appointed by the artistic director
-and production manager and approved by a majority vote of the executive
-board. This is to ensure that those choosing the season are those who
-the Artistic director believes will carry out the artistic vision of the
-company while making their selections. The artistic director will be
-allowed to sit-in on selection committee hearings to give input about
-the artistic vision of the theater.The faculty advisor shall serve as
-ex-officio member of this committee. The main duty of the Production
-Selection Committee shall be to select the Florida Players Production
-Season as outlined in Article XIII of this Constitution. Elections for
-the Production Selection Committee must occur no later than the third
-general body meeting of the fall semester. In selection committee chair
-is to find a suitable substitute for that category – the Assistant
-Artistic Director and/ or the Artistic director may step in at the
-discretion of the Production Selection Committee Chair.The duties of
-selection committee shall be as follows:
-
-A.  To read all proposals and plays and come prepared to the selection
-    committee hearing ready to discuss each proposal.
-
-B.  Toupholdtheconstitutionwhenmakingselections.
-
-C.  Tobefreeofbiaswhenvotingforproposals.
-
-14
-
-Section 4 – Special Events CommitteeThis committee shall consist of the
-Director of Special Events, who shall serve as the chair and any
-interested Florida Players members as approved by the Director of
-Special Events. The duties of this committee shall be the following:
-
--   1.
-     Toplanandorganizespecialeventswhichbothservethethree-foldartisticmissionofthe
-    organization and provide a social outlet for the members of Florida
-    Players
-
--   2.  ToplanandorganizeFloridaPlayersannualeventsincludingthe A.
-    End-of-the-Year Florida Players Banquet (Mandatory)B.
-    FloridaPlayersHolidayParty(Optional)
-
--   3.  Toencourageinstitutionaldevelopmentonthefollowinglevel:A. Financial
-    – to innovate and maintain methods to gain financial support from
+1. To plan and organize special events which both serve the three-fold artistic mission of the organization and provide a social outlet for the members of Florida Players
+2. To plan and organize Florida Players annual events including:
+ 1. End-of-the-Year Florida Players Banquet (Mandatory)
+ 2. Florida Players Holiday Party (Optional)
+3. To encourage institutional development on the following level:
+ 1. Financial – to innovate and maintain methods to gain financial support from
     alternative sources.
 
-Section 5- Publicity CommitteeThis committee shall consist of the
-Director of Publicity who shall serve as the chair, the Assistant
-Director of Publicity, and any interested Florida Players members as
-approved by the Director of Publicity. Publicity included, but is not
-limited to, the following: programs, brochures, posters, flyers, sighs,
-press releases, tarps and any other forms of advertising. The duties of
-the Publicity Committee shall be the following:
+### Section 5- Publicity Committee
 
-A.
-TocoordinatewiththeDirectorofFinancetheproperallocationofthepublicityBudget
-B. Toprovidepublicityforallmeetings,eventsandproductionsC.
-Toorganizethedesign,acquisitionanddistributionofallseasonalteeshirtsD.
-To innovate and maintain methods of publicizing Florida Players.
+This committee shall consist of the Director of Publicity who shall serve as the chair, the Assistant Director of Publicity, and any interested Florida Players members as approved by the Director of Publicity. Publicity included, but is not limited to, the following: programs, brochures, posters, flyers, sighs, press releases, tarps and any other forms of advertising. The duties of the Publicity Committee shall be the following:
 
-E.
-Toplanandorchestratethecreationandhangingofatarpforeachproduction.Section
-6 – Community Outreach CommitteeThis committee shall consist of the
-Assistant Artistic Director, who shall serve as the chair, and any
-interested Florida Players members as approved by the Assistant Artistic
-Director. The duties of Community Outreach Committee hall be the
-following:
+1. To coordinate with the Director of Finance the proper allocation of the publicity Budget
+2. To provide publicity for all meetings, events and productions
+3. To organize the design, acquisition and distribution of all seasonal tee shirts
+4. To innovate and maintain methods of publicizing Florida Players.
+5. To plan and orchestrate the creation and hanging of a tarp for each production.
 
-A.  To provide service to the surrounding theater community by sharing
-    Florida Players’ resources of talent and education.
+### Section 6 – Community Outreach Committee
 
-B.  Tointroducetheaterasanoutletandactivitytothepeopleofthecommunity.
+This committee shall consist of the Assistant Artistic Director, who shall serve as the chair, and any interested Florida Players members as approved by the Assistant Artistic Director. The duties of Community Outreach Committee hall be the following:
 
-C.  Tousetheaterasatooltospreadimportantideasandmessagesthroughoutthecommunity.
+1. To provide service to the surrounding theater community by sharing Florida Players’ resources of talent and education.
+2. To introduce theater as an outlet and activity to the people of the community.
+3. To use theater as a tool to spread important ideas and messages throughout the community.
 
-Section 7- AppealsIn the event that a decision made by any committees
-is contradictory to this Constitution any Florida Players member may
-move to appeal that decision at any Florida Players meeting. A
-two-thirds (2/3) vote of the total voting Membership present shall be
-necessary to effect such a reversal.
+### Section 7- Appeals
 
-Article XIV – Productions
+In the event that a decision made by any committees is contradictory to this Constitution any Florida Players member may move to appeal that decision at any Florida Players meeting. A two-thirds (2/3) vote of the total voting Membership present shall be necessary to effect such a reversal.
+
+## Article XIV – Productions
 
 In order to provide students with a better laboratory experience for
 training and experimentation, Florida Players shall establish a
