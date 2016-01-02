@@ -307,8 +307,7 @@ Executive Board Requirements:
 4. All potential board members must have the awareness of and willingness to accept the responsibilities of the office as outlined in Article IV of this constitution and are required to sign the respective Rights and Responsibilities Contracts prior to taking their position.
 5. It is highly recommended that those who run for a board position sit on a standing committee for at least one (1) semester.
 
-### Section 4 – Replacement and Removal of Production Selection Committee
-Members
+### Section 4 – Replacement and Removal of Production Selection Committee Members
 
 1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
 2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the nest regularly held general meeting. 
@@ -412,7 +411,7 @@ Florida Players shall have the following standing committees:
 - The Publicity Committee
 - the Community Outreach Committee
 
-### Section 1 – TheExecutive Committee (Board)
+### Section 1 – The Executive Committee (Board)
 
 This board shall consist of the Artistic Director, who shall serve as chair, the Assistant Artistic Director, the Secretary, the Director of Finance, the Production Manager, the Assistant Production Manger, the Director of Publicity, the Assistant Director of Publicity, the Director of Special Events, the Web Manager, the Assistant Web Manager and the Historian. The Faculty Advisor shall serve as ex-officio member of this committee. The duties of the Executive Board shall be the following:
 
