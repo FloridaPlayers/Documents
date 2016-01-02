@@ -615,257 +615,88 @@ In the event that a decision made by any committees is contradictory to this Con
 
 ## Article XIV – Productions
 
-In order to provide students with a better laboratory experience for
-training and experimentation, Florida Players shall establish a
-laboratory theater program.Section 1 – Selection and FundingFlorida
-Players shall fund productions in the fall and spring semesters to be
-student produced
+In order to provide students with a better laboratory experience for training and experimentation, Florida Players shall establish a laboratory theater program.
 
-15
+### Section 1 – Selection and Funding 
 
-and predominantly student run. Faculty may be invited to supervise by
-the student proposing the show.
+Florida Players shall fund productions in the fall and spring semesters to be student produced and predominantly student run. Faculty may be invited to supervise by the student proposing the show.
 
--   1.  TheplaystobeproducedshallbeestablishedbytheProductionSelectionCommittee.
+1. The plays to be produced shall be established by the Production Selection Committee.
+2. Only Voting members who have maintained membership for two semesters including the semester of the time proposals are eligible to propose shows. It is the responsibility of the secretary to ensure that all incoming proposals are submitted by those holding voting membership.
+3. Proposals for these shows shall be made in writing to the Production Selection Committee, and shall include the information outlined in the Production Proposal Guidelines.
+4. A director may not propose a show if they have a conflict with a University of Florida School of Theater and Dance production mandated by their department unless permission is given by his or her department head.
+5. The committee shall select the most promising of these proposals after each producer and director is interviewed by the committee regarding their intentions and overall concept for the piece.
+6. Members of the committee who have proposals under consideration shall abstain from voting. The chair of the committee shall vote only in the event of a tie.
+7. The third slot of the fall semester shall be a New Works Festival unless no New works is proposed.
+8. Florida Players will fully mount all productions selected as a part of the production season fairly, evenly, and without prejudice, bias or favoritism doing its best to meet all technical, financial and personal needs as it fitting to the Florida Players Budget and to each shows specific budget.
 
--   2.
-     OnlyVotingmemberswhohavemaintainedmembershipfortwosemestersincludingthe
-    semester of the time proposals are eligible to propose shows. It is
-    the responsibility of the secretary to ensure that all incoming
-    proposals are submitted by those holding voting membership.
+### Section 2 – Production Requirements
 
--   3.
-     ProposalsfortheseshowsshallbemadeinwritingtotheProductionSelectionCommittee,
-    and shall include the information outlined in the Production
-    Proposal Guidelines.
+The following requirements must be met for each show in a season:
 
--   4.
-     AdirectormaynotproposeashowiftheyhaveaconflictwithaUniversityofFlorida
-    School of Theater and Dance production mandated by their department
-    unless permission is given by his or her department head.
+1. Directors, Producers and Stage Managers must all meet with the Production Manager to discuss expectations, rights, and responsibilities as well as to sign Production Contracts prior to accepting their roles on a production.
+2. It is not mandatory, however, it is highly suggested that the Directors have some directing or assistant directing experience, preferably with a Florida Players Production.
+3. Open auditions must be held.
+4. Directors and Producers are not permitted to act in their own show.
+5. Designers and performers must sign production contracts before accepting their positions and roles on a production.
+6. Designers may not design a Florida Players production if they have a conflict with a University of Florida School of Theater and Dance production mandated by their department head unless permission is given by his or her department head.
+7. A director must consult with the other directors in that season at a casting meeting presided over by the Production Manager and come to a mutual agreement before finalizing any casting decision of informing anyone of their status as a cast member.
+8. The cast lists for each production are to be regulated and posted by the Production Manager.
+9. It is highly recommended that all involved with the shows are students at the University of Florida. Any exceptions must be approved by the Executive Board.
 
--   5.
-     Thecommitteeshallselectthemostpromisingoftheseproposalsaftereachproducerand
-    director is interviewed by the committee regarding their intentions
-    and overall concept for the piece.
+### Section 3 – The New Works Festival
 
--   6.
-     Membersofthecommitteewhohaveproposalsunderconsiderationshallabstainfrom voting.
-    The chair of the committee shall vote only in the event of a tie.
+Florida Players shall produce a New Works Festival in the third slot of the fall semester.
 
--   7.
-     ThethirdslotofthefallsemestershallbeaNewWorksFestivalunlessnoNewworksis proposed.
+1. The Assistant Production Manager shall serve as the New Works coordinator unless he or she has a conflict with a University of Florida School of Theater and Dance production.
+2. In order for a work to be eligible for submission, the work must have been written by a student at the University of Florida at the time of proposal. Additionally, all proposed works must have never been previously produced and/or financially supported by another institution.
+3. The play produced shall be established by the Production Selection Committee.
+4. Proposals for these new works shall be made in writing to the Production Selection Committee and shall include the information outlined in the New Works Proposal Guidelines.
+5. After each playwright is interviewed by the Production Selection Committee regarding their intentions and overall concept for their piece, the committee shall select the most promising of these proposals.
+6. Members of the committee who have proposals under consideration shall abstain from voting. The chair of the Production Selection Committee shall vote only in the event of a tie.
+7. The amount of works passed on to the festival is at the discretion of the Production Selection Committee.
+8. The director(s) and producer of the production are also prohibited from acting.
+9. In the event that a new work is passed, edits to the script will be permitted within reason at the discretion of the Assistant Production Manager up to three weeks prior to opening night
+10. It is highly recommended that all involved with the show are students at the University of Florida. However, exceptions can be approved by the executive committee.
+11. It is recommended that no more than three new works are featured in any one festival, however this is left to the discretion of the Production Selection Committee based upon length of work and difficulty of execution.
+12. The New Works Festival shall be mounted as a singularly produced festival sharing a single design team and budget.
 
--   8.
-     FloridaPlayerswillfullymountallproductionsselectedasapartoftheproductionseason
-    fairly, evenly, and without prejudice, bias or favoritism doing its
-    best to meet all technical, financial and personal needs as it
-    fitting to the Florida Players Budget and to each shows
-    specific budget.
+### Section 4 – Production Contracts
 
-Section 2 – Production RequirementsThe following requirements must be
-met for each show in a season:
+Any person involved in a Florida Players production must sign and adhere to the contract designated for their specified role in the show. Failure to do so will nullify their involvement in the production.
 
--   1.
-     Directors,ProducersandStageManagersmustallmeetwiththeProductionManagerto
-    discuss expectations, rights, and responsibilities as well as to
-    sign Production Contracts prior to accepting their roles on
-    a production.
+### Section 5 – Feedback
 
--   2.
-     Itisnotmandatory,however,itishighlysuggestedthattheDirectorshavesomedirecting
-    or assistant directing experience, preferably with a Florida
-    Players Production.
+The directors, designers and actors of each show will be allowed the option to participate in a talkback, organized by the show’s producer, director and stage manager and moderated by the Artistic Director of Florida Players or his or her designee, space and time permitting. If a space is not available or scheduling conflicts are too burdensome, a director may elect to include feedback inserts in their programs. The questions for these feedback inserts will be created through collaboration between Artistic Director, Production Manager and Director of the production.
 
--   3.  Openauditionsmustbeheld.
+### Section 6 – Behavioral Documentation Process
 
--   4.  DirectorsandProducersarenotpermittedtoactintheirownshow.
+1. In the case that any cast or crew member has committed an act that may be deemed as inappropriate during an official rehearsal or performance of a show, or if any member of a show is in major breach of contract, a Behavioral Documentation Form must be filed with the Artistic Director in order to record the incident. This form must be filed within three (3) days of the incident, and must be signed by: the individual filing the form (the Complainant) the individual who the form is being filed against (the Respondent) and two (2) witnesses. If the form is not filed within three (3) days, the incident will be considered null and void.
+2. After one (1) Behavioral Documentation Forms have been filed against the same individual, the Artistic Director will step in to mediate the issue between the respondent and the Complainant.
+3. After two (2) Behavioral Documentation Forms have been filed against the same individual, his/her position in the show will be re-evaluated by the Director, Stage manager, Production manager, Artistic Director and the Faculty Advisor.
+4. In the case that a form is filed against an individual who denies that the incident occurred or insists that the incident has been misrepresented, the Artistic Director will step in to mediate the issue between the Respondent and the Complainant.
+5. In the case that either the Artistic Director is the Complainant or the Respondent, the Assistant Artistic Director or Production Manager will take his or her place in the mediation and re-revaluation process.
+6. Behavioral forms will be filed in quintuplicate withone copy being kept by the Artistic Director, one copy being filed with the Florida Players’ faculty advisor, one copy being filed with the head of the respondent’s department (if applicable), one being filed with the complainant and one being filed with the respondent.
+7. When the incident in question involve sexual harassment or physical assault, the complainant must file a University of Florida Complaint/Intake Form with the Office of Human Resource Services and follow the procedure put forth by the University of Florida in regards to sexual harassment or physical assault.
+8. Florida Players reserves the right to deny or revoke membership to any member by majority vote of the Executive Board and ask any person to leave any event sponsored or co-sponsored by Florida Players in response to a behavioral issue or in response to a history of behavioral issues.
+9. Florida Players retains the right to archive Behavioral Forms and breached contracts. Florida Players also retains the rights to have archived Behavioral Forms and breached contract brought into discussion in good faith during elections and during Production Selection Committee Meetings.
 
--   5.
-     Designersandperformersmustsignproductioncontractsbeforeacceptingtheirpositions
-    and roles on a production.
+## Article XV - Adoption and Authority
 
--   6.
-     DesignersmaynotdesignaFloridaPlayersproductioniftheyhaveaconflictwitha
-    University of Florida School of Theater and Dance production
-    mandated by their department head unless permission is given by his
-    or her department head.
+###  Section 1 – Adoption of this constitution
 
--   7.
-     Adirectormustconsultwiththeotherdirectorsinthatseasonatacastingmeeting
-    presided over by the Production Manager and come to a mutual
-    agreement before finalizing any casting decision of informing
-    anyone of their status as a cast member.
+This constitution upon the adoption by the Voting Membership and approval by the University of Florida Center for Student Involvement, shall go into effect immediately. It shall supersede and void all previous Constitutions of Florida Players.
 
--   8.
-     ThecastlistsforeachproductionaretoberegulatedandpostedbytheProduction Manager.
+### Section 2 – Authorities over this Constitution
 
-16
+This Constitution comes under all rules and regulations of The Student Body Constitution of the University of Florida and all rules and regulations governing the University of Florida and its students.
 
-9.
-ItishighlyrecommendedthatallinvolvedwiththeshowsarestudentsattheUniversityof
-Florida. Any exceptions must be approved by the Executive Board.
+## Article XVI – Amendments to the Constitution
 
-Section 3 – The New Works FestivalFlorida Players shall produce a New
-Works Festival in the third slot of the fall semester.
+### Section 1 - Proposal of Amendments
 
--   1.
-     TheAssistantProductionManagershallserveastheNewWorkscoordinatorunlessheor
-    she has a conflict with a University of Florida School of Theater
-    and Dance production.
+Amendments to this constitution may be proposed by any Voting Member at any meeting. A two-thirds (2/3) vote of the Total Voting Membership at the next regular meeting shall be necessary to pass such an amendment. The vote may be taken at the same meeting if the two-third (2/3) are present.
 
--   2.
-     Inorderforaworktobeeligibleforsubmission,theworkmusthavebeenwrittenbya
-    student at the University of Florida at the time of proposal.
-    Additionally, all proposed works must have never been previously
-    produced and/or financially supported by another institution.
+### Section 2 – Approval of Amendments
 
--   3.  TheplayproducedshallbeestablishedbytheProductionSelectionCommittee.
-
--   4.
-     ProposalsforthesenewworksshallbemadeinwritingtotheProductionSelection
-    Committee and shall include the information outlined in the New
-    Works Proposal Guidelines.
-
--   5.
-     AftereachplaywrightisinterviewedbytheProductionSelectionCommitteeregarding
-    their intentions and overall concept for their piece, the committee
-    shall select the most promising of these proposals.
-
--   6.
-     Membersofthecommitteewhohaveproposalsunderconsiderationshallabstainfrom voting.
-    The chair of the Production Selection Committee shall vote only in
-    the event of a tie.
-
--   7.
-     TheamountofworkspassedontothefestivalisatthediscretionoftheProduction
-    Selection Committee.
-
--   8.  Thedirector(s)andproduceroftheproductionarealsoprohibitedfromacting.
-
--   9.
-     Intheeventthatanewworkispassed,editstothescriptwillbepermittedwithinreasonat
-    the discretion of the Assistant Production Manager up to three
-    weeks prior to opening night
-
-10. It is highly recommended that all involved with the show are
-students at the University of
-
-Florida. However, exceptions can be approved by the executive
-committee.
-
-11. It is recommended that no more than three new works are
-featured in any one festival,
-
-however this is left to the discretion of the Production Selection
-Committee based upon
-
-length of work and difficulty of execution.
-
-12. The New Works Festival
-shall be mounted as a singularly produced festival sharing a
-
-single design team and budget.
-
-Section 4 – Production ContractsAny person involved in a Florida
-Players production must sign and adhere to the contract designated for
-their specified role in the show. Failure to do so will nullify their
-involvement in the production.
-
-Section 5 – FeedbackThe directors, designers and actors of each show
-will be allowed the option to participate in a talkback, organized by
-the show’s producer, director and stage manager and moderated by the
-
-17
-
-Artistic Director of Florida Players or his or her designee, space and
-time permitting. If a space is not available or scheduling conflicts are
-too burdensome, a director may elect to include feedback inserts in
-their programs. The questions for these feedback inserts will be created
-through collaboration between Artistic Director, Production Manager and
-Director of the production.
-
-Section 6 – Behavioral Documentation Process
-
--   1.  Inthecasethatanycastorcrewmemberhascommittedanactthatmaybedeemedas
-    inappropriate during an official rehearsal or performance of a show, or
-    if any member of a show is in major breach of contract, a Behavioral
-    Documentation Form must be filed with the Artistic Director in order to
-    record the incident. This form must be filed within three (3) days of
-    the incident, and must be signed by: the individual filing the form
-    (the Complainant) the individual who the form is being filed against
-    (the Respondent) and two (2) witnesses. If the form is not filed within
-    three (3) days, the incident will be considered null and void.
-
--   2.  Afterone(1)BehavioralDocumentationFormshavebeenfiledagainstthesame
-    individual, the Artistic Director will step in to mediate the issue
-    between the respondent and the Complainant.
-
--   3.  Aftertwo(2)BehavioralDocumentationFormshavebeenfiledagainstthesame
-    individual, his/her position in the show will be re-evaluated by the
-    Director, Stage manager, Production manager, Artistic Director and the
-    Faculty Advisor.
-
--   4.
-     Inthecasethataformisfiledagainstanindividualwhodeniesthattheincidentoccurred
-    or insists that the incident has been misrepresented, the Artistic
-    Director will step in to mediate the issue between the Respondent
-    and the Complainant.
-
--   5.
-     InthecasethateithertheArtisticDirectoristheComplainantortheRespondent,the
-    Assistant Artistic Director or Production Manager will take his or
-    her place in the mediation and re-revaluation process.
-
--   6.
-     BehavioralformswillbefiledinquintuplicatewithonecopybeingkeptbytheArtistic
-    Director, one copy being filed with the Florida Players’ faculty
-    advisor, one copy being filed with the head of the respondent’s
-    department (if applicable), one being filed with the complainant and
-    one being filed with the respondent.
-
--   7.
-     Whentheincidentinquestioninvolvesexualharassmentorphysicalassault,the
-    complainant must file a University of Florida Complaint/Intake Form
-    with the Office of Human Resource Services and follow the procedure
-    put forth by the University of Florida in regards to sexual
-    harassment or physical assault.
-
--   8.  FloridaPlayersreservestherighttodenyorrevokemembershiptoanymemberby
-    majority vote of the Executive Board and ask any person to leave any
-    event sponsored or co-sponsored by Florida Players in response to a
-    behavioral issue or in response to a history of behavioral issues.
-
--   9.  FloridaPlayersretainstherighttoarchiveBehavioralFormsandbreachedcontracts.
-    Florida Players also retains the rights to have archived Behavioral
-    Forms and breached contract brought into discussion in good faith during
-    elections and during Production Selection Committee Meetings.
-
-18
-
-Article XV Adoption and Authority
-
-Section 1 – Adoption of this constitutionThis constitution upon the
-adoption by the Voting Membership and approval by the University of
-Florida Center for Student Involvement, shall go into effect
-immediately. It shall supersede and void all previous Constitutions of
-Florida Players.Section 2 – Authorities over this ConstitutionThis
-Constitution comes under all rules and regulations of The Student Body
-Constitution of the University of Florida and all rules and regulations
-governing the University of Florida and its students.
-
-Article XVI – Amendments to the Constitution
-
-Section1 - Proposal of AmendmentsAmendments to this constitution may be
-proposed by any Voting Member at any meeting. A two- thirds (2/3. vote
-of the Total Voting Membership at the next regular meeting shall be
-necessary to pass such an amendment. The vote may be taken at the same
-meeting if the two-third (2/3. are present.
-
-Section 2 – Approval of AmendmentsAll amendments to the constitution
-must immediately be submitted directly to the Department for Student
-Activities and Involvement in writing for review and approval.
-
-5
-
-19
+All amendments to the constitution must immediately be submitted directly to the Department for Student Activities and Involvement in writing for review and approval.
