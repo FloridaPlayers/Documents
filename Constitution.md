@@ -5,9 +5,9 @@
 
 The name of this organization shall be Florida Players. This organization will utilize the initials FP in publicity material and correspondence.
 
-## Article II – Mission Statement
+## Article II — Mission Statement
 
-Florida Players is a student-run theater company providing opportunities and support for its members to explore, create, and showcase their discoveries within the world of theater. Florida players is sponsored by UF Student Government and open to all University of Florida students regardless of major as well as the greater Gainesville community. Florida Players offers members the chance to explore all aspects of theater, including but not limited to: direction; design; performance; and play-writing, as well as leadership positions. Florida Players also acts as an umbrella organization for the dance company Floridance.
+Florida Players is a student-run theatre company providing opportunities and support for its members to explore, create, and showcase their discoveries within the world of theatre. Florida Players is sponsored by UF Student Government and is open to all University of Florida students regardless of major as well as the greater Gainesville community. Florida Players offers members the chance to explore all aspects of theatre, including but not limited to: direction, design, performance, play-writing, stage management, and leadership. Florida Players also acts as an umbrella organization for the dance company Floridance.
 
 ## Article III — Compliance Statement
 
@@ -15,7 +15,7 @@ Upon approval by the Department of Student Activities and Involvement, Florida P
 
 ## Article IV — University Regulations
 
-In order to be registered, student organizations must comply with the University of Florida’s Non- Discrimination, Sexual Harassment, and Hazing Policies. Constitutions must include the verbatim sections below. A student organization whose primary purpose is religious will not be denied registration as a Registered Student Organization on the ground that it limits membership or leadership positions to students who share the religious beliefs of the organization. The University has determined that this accommodation of religious belief does not violate its Non-Discrimination policy.
+In order to be registered, student organizations must comply with the University of Florida’s Non-Discrimination, Sexual Harassment, and Hazing Policies. Constitutions must include the verbatim sections below. A student organization whose primary purpose is religious will not be denied registration as a Registered Student Organization on the ground that it limits membership or leadership positions to students who share the religious beliefs of the organization. The University has determined that this accommodation of religious belief does not violate its Non-Discrimination policy.
 
 ### Section 1 — Non-Discrimination
 
@@ -39,28 +39,29 @@ Membership in this organization is open to all enrolled students at the Universi
 
 ## Article VI — Officers
 
-The Officers of Florida Players are the members of the Executive Board. Term of office for each position may last no longer than one (1) year with possibility of reelection. These officers shall be announced and honored at both the UF SOTD convocation and Florida Player’s annual banquet. They will officially be installed at the close of the mandatory Transition Meeting. The Transition Meeting will consist of break–out sessions in which the old board member will conference with the new board member and hand over a working handbook for the position. This meeting will also include an open forum between the old board and new board to allow for questions and discussion. At this meeting, all incoming and returning board members will sign his or her Rights and Responsibilities Contract. The old secretary will close the meeting at which time their terms of office will commence. All positions are elected by the voting membership with the exception of Assistant Webmaster and Director of Publicity, which are appointed.
+The Officers of Florida Players are the members of the Executive Board. Term of office for each position may last no longer than one (1) year with possibility of reelection. These officers shall be announced and honored at both the University of Florida School of Theatre and Dance convocation and Florida Players' annual banquet. They will officially take office at the close of the mandatory Transition Meeting. The Transition Meeting will consist of break–out sessions in which the outgoing board members will conference with their respective incoming board members and hand over working handbooks for the positions. This meeting will also include an open forum between the old board and new board to allow for questions and discussion. At this meeting, all incoming and returning board members will sign their Rights and Responsibilities Contract(s). The outgoing Secretary will close the meeting at which time the new board members' terms of office will commence. All positions are elected by the voting membership unless specified in their respective sections within this article.
 
-### Section 1 — President/ Artistic Director
+### Section 1 — President / Artistic Director
+
+The office of Artistic Director shall be equivalent to the office of President as per Student Government regulations. The office shall be referred to only as Artistic Director. The responsibilities of the Artistic Director shall be the following:
 
 1. To preside over all Florida Players meetings and conduct or delegate all Florida Players business.
 2. To serve as ex-officio of all Florida Players committees.
 3. To serve as chair of the Executive Board.
-4. To call special meetings of the Florida Players general body of the
-Executive Board when he or she deems such action necessary.
+4. To call special meetings of the Florida Players general body or the Executive Board when he or she deems such action necessary.
 5. To conduct meetings in accordance with Roberts Rules of Order if she or he deems necessary. The necessity of Roberts Rules of Order will be determined at the final executive board meeting previous to the general body meeting. Roberts Rules of Order can be found at http://www.robertsrules.com/
-6. To have Co-sign authority with the Director of Finance on all Student Acquisition Requests (SARs).
-7. To coordinate all master classes sponsored by the organization.
-8. To serve as liaison to the University of Florida’s School of Theater and Dance as a whole on behalf of Florida Players.
-9. To report on the state of Florida Players to the University of Florida’s School of Theater and Dance at the University of Florida’s School of Theater and Dance Faculty meeting a least once each semester.
-10. With the assistant artistic director, to arrange for private meetings with each officer on the executive committee to discuss performance and any personal disputes twice a semester, once halfway through the fall/spring semester and once at the end of the fall/spring semester.
+6. To have co-sign authority with the Director of Finance on all Student Acquisition Requests (SARs).
+7. To coordinate, in conjunction with the Assistant Artistic Director, all master classes sponsored by the organization.
+8. To serve as liaison to the University of Florida’s School of Theatre and Dance as a whole on behalf of Florida Players.
+9. To report on the state of Florida Players to the University of Florida’s School of Theatre and Dance at a personal meeting with the Director and Production Manager of the School of Theatre and Dance.
+10. To arrange, with the Assistant Artistic Director, for private meetings with each officer on the Executive Board to discuss performance and any personal disputes twice a semester, once halfway through the fall/spring semester and once at the end of the fall/spring semester.
 11. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-12. To arrange regularly scheduled board meetings and to attend every arranged board meeting.
-13. To sit in at auditions, callbacks and the casting meeting and to give input at these events if solicited.
-14. The artistic director holds the right to sit in on any meeting as long as they have given the appropriate person 24-hour notice.
-15. To plan and produce one workshop with assistance from the assistant artistic director.
+12. To arrange regularly scheduled Executive Board meetings and to attend every arranged Executive Board meeting.
+13. To sit in at auditions, callbacks, and the casting meeting and to give input at these events if solicited.
+14. The Artistic Director holds the right to sit in on any meeting or rehearsal as long as he/she has given the appropriate person 24-hour notice.
+15. To plan and produce one workshop with assistance from the Assistant Artistic Director.
 
-### Section 2 — Vice President/ Assistant Artistic Director
+### Section 2 — Vice President / Assistant Artistic Director
 
 The office of Assistant Artistic Director shall be equivalent to the office of Vice President as per Student Government regulations. The office shall be referred to only as Assistant Artistic Director. The responsibilities of the Assistant Artistic Director shall be the following:
 
@@ -80,7 +81,7 @@ The office of Assistant Artistic Director shall be equivalent to the office of V
 The responsibilities of the Secretary shall be the following:
 
 1. To keep minutes of all Florida Players meetings.
-2. To coordinate minutes from all committee meetings and to report the same to the Executive Committee.
+2. To coordinate minutes from all committee meetings and to report the same to the Executive Board.
 3. To keep a record of attendance of the Voting Membership.
 4. To keep a record of attendance of the Executive Board and to notify the Executive board of any excessive absences.
 5. To receive and organize applications for membership in Florida Players.
@@ -89,7 +90,7 @@ The responsibilities of the Secretary shall be the following:
 8. To keep track of all members’ Florida Players points and member status.
 9. To assign points as seen fit for undefined production positions.
 10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-11. To keep and maintain the designated Florida Players Board in the School of Theater and Dance hallway.
+11. To keep and maintain the designated Florida Players Board in the School of Theatre and Dance hallway.
 12. To maintain the integrity and proofread of all records and official Florida Players publicity, social media, and paperwork. (Programs, email as well)
 13. To plan and produce one workshop with assistance from the Assistant Artistic Director.
 
@@ -119,13 +120,13 @@ The responsibilities of the Production Manager shall be the following:
 
 1. To serve as chair of the Production Selection Committee.
 2. To act as liaison between Florida Players and the representative in charge of space scheduling and the upkeep of the performance and the rehearsal spaces.
-3. To act as the liaison between Florida Players any technical representative of the University of Florida School of Theater and Dance, Digital Worlds and Florida Players.
+3. To act as the liaison between Florida Players any technical representative of the University of Florida School of Theatre and Dance, Digital Worlds and Florida Players.
 4. To act as liaison between the chosen directors and producers as well as the Florida Players finance committee.
 5. To coordinate and successfully mount the Production season as outlined in the Production Manager Operational Handbook.
 6. To oversee the submission of Student Acquisition Request (SARs) related to the mounting of the production season.
 7. To manage the casting meeting held after callbacks every production season and to regulate the posting of cast lists for each production.
 8. To handle, maintain and keep on record the various Production Contracts.
-9. To ensure the eligibility of proposals in regards to the director’s standing in his or her specific program within the University of Florida’s School of Theater and Dance.
+9. To ensure the eligibility of proposals in regards to the director’s standing in his or her specific program within the University of Florida’s School of Theatre and Dance.
 10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
 11. With the Artistic Director, to update proposal guidelines and New Works Proposal Guidelines and make them available to members at least 2 weeks before the proposal deadline.
 12. To plan and produce one workshop with assistance from the assistant artistic director. The office of Production Manager shall be succeeded by the Assistant Production Manager.
@@ -167,7 +168,7 @@ The responsibilities of the Assistant Publicist shall be the following:
 4. To maintain an officer’s Operational Handbook to be passed down to the subsequent holder of this office.
 5. To plan and produce one workshop with assistance from the assistant artistic director.
 
-The Assistant of Publicity is a position appointed by application by the Director of Publicity with approval by the executive committee.
+The Assistant of Publicity is a position appointed by application by the Director of Publicity with approval by the Executive Board.
 
 ### Section 9 – Director of Development and Events (Special Events)
 
@@ -211,7 +212,7 @@ The responsibilities of the Assistant Web Manager shall be the following:
 3. To plan and produce one workshop with assistance from the assistant artistic director
 
 The Assistant Web Manager is a position appointed by application by the
-Web Manager with approval by the executive committee and the Web
+Web Manager with approval by the Executive Board and the Web
 Management team.
 
 
@@ -292,7 +293,7 @@ forty – eight (48) hours before the meeting is to take place.
 3. Absentee ballotting is NOT permitted in any election
 4. Special elections may be called by the Artistic Director as necessary.
 5. Election results shall be posted no later than forty-eight (48) hours after the election.
-6. Two Executive board members will count the ballots. The Faculty Advisor shall be present at this counting. No Executive committee members running in said election may be permitted to count ballots.
+6. Two Executive board members will count the ballots. The Faculty Advisor shall be present at this counting. No Executive Board members running in said election may be permitted to count ballots.
 7. Nominees must be present at the election to accept an elected position.
 8. Florida Players WILL NOT be allowed to preside over the elections of its subgroups. Officers may provide assistance to the request of the subgroup but all elections for a subgroup will be upheld to the letter of that sub-group’s constitution. The officers may provide assistance in any way requested with the exception of influencing elections.
 
@@ -319,7 +320,7 @@ The responsibilities of the Faculty Advisor shall be the following:
 
 1. To be present at all scheduled Florida Players voting meetings including but not limited to, elections and impeachments.
 2. To serve as an ex-officio member on all Florida Players standing committees.
-3. To serve as a liaison between Florida Players and the University of Florida’s School of Theater and Dance.
+3. To serve as a liaison between Florida Players and the University of Florida’s School of Theatre and Dance.
 
 ### Section 2 — Appointment of the Faculty Advisor
 
@@ -403,14 +404,14 @@ Florida Players shall maintain the following events outside of the Production Se
 ## Article XIII — Standing Committees
 
 Florida Players shall have the following standing committees: 
-- The Executive Committee (Board)
+- The Executive Board
 - the Finance Committee
 - the Production Selection Committee
 - the Special Events Committee
 - The Publicity Committee
 - the Community Outreach Committee
 
-### Section 1 — The Executive Committee (Board)
+### Section 1 — The Executive Board
 
 This board shall consist of the Artistic Director, who shall serve as chair, the Assistant Artistic Director, the Secretary, the Director of Finance, the Production Manager, the Assistant Production Manger, the Director of Publicity, the Assistant Director of Publicity, the Director of Special Events, the Web Manager, the Assistant Web Manager and the Historian. The Faculty Advisor shall serve as ex-officio member of this committee. The duties of the Executive Board shall be the following:
 
@@ -430,7 +431,7 @@ This committee shall consist of the Director of Finance, who shall serve as the 
 
 ### Section 3 — Production Selection Committee
 
-This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players Voting Membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theater.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
+This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players Voting Membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theatre.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
 
 1. To read all proposals and plays and come prepared to the selection committee hearing ready to discuss each proposal.
 2. To uphold the constitution when making selections.
@@ -462,9 +463,9 @@ This committee shall consist of the Director of Publicity who shall serve as the
 
 This committee shall consist of the Assistant Artistic Director, who shall serve as the chair, and any interested Florida Players members as approved by the Assistant Artistic Director. The duties of Community Outreach Committee hall be the following:
 
-1. To provide service to the surrounding theater community by sharing Florida Players’ resources of talent and education.
-2. To introduce theater as an outlet and activity to the people of the community.
-3. To use theater as a tool to spread important ideas and messages throughout the community.
+1. To provide service to the surrounding theatre community by sharing Florida Players’ resources of talent and education.
+2. To introduce theatre as an outlet and activity to the people of the community.
+3. To use theatre as a tool to spread important ideas and messages throughout the community.
 
 ### Section 7 — Appeals
 
@@ -472,7 +473,7 @@ In the event that a decision made by any committees is contradictory to this Con
 
 ## Article XIV — Productions
 
-In order to provide students with a better laboratory experience for training and experimentation, Florida Players shall establish a laboratory theater program.
+In order to provide students with a better laboratory experience for training and experimentation, Florida Players shall establish a laboratory theatre program.
 
 ### Section 1 — Selection and Funding 
 
@@ -481,7 +482,7 @@ Florida Players shall fund productions in the fall and spring semesters to be st
 1. The plays to be produced shall be established by the Production Selection Committee.
 2. Only Voting members who have maintained membership for two semesters including the semester of the time proposals are eligible to propose shows. It is the responsibility of the secretary to ensure that all incoming proposals are submitted by those holding voting membership.
 3. Proposals for these shows shall be made in writing to the Production Selection Committee, and shall include the information outlined in the Production Proposal Guidelines.
-4. A director may not propose a show if they have a conflict with a University of Florida School of Theater and Dance production mandated by their department unless permission is given by his or her department head.
+4. A director may not propose a show if they have a conflict with a University of Florida School of Theatre and Dance production mandated by their department unless permission is given by his or her department head.
 5. The committee shall select the most promising of these proposals after each producer and director is interviewed by the committee regarding their intentions and overall concept for the piece.
 6. Members of the committee who have proposals under consideration shall abstain from voting. The chair of the committee shall vote only in the event of a tie.
 7. The third slot of the fall semester shall be a New Works Festival unless no New works is proposed.
@@ -496,7 +497,7 @@ The following requirements must be met for each show in a season:
 3. Open auditions must be held.
 4. Directors and Producers are not permitted to act in their own show.
 5. Designers and performers must sign production contracts before accepting their positions and roles on a production.
-6. Designers may not design a Florida Players production if they have a conflict with a University of Florida School of Theater and Dance production mandated by their department head unless permission is given by his or her department head.
+6. Designers may not design a Florida Players production if they have a conflict with a University of Florida School of Theatre and Dance production mandated by their department head unless permission is given by his or her department head.
 7. A director must consult with the other directors in that season at a casting meeting presided over by the Production Manager and come to a mutual agreement before finalizing any casting decision of informing anyone of their status as a cast member.
 8. The cast lists for each production are to be regulated and posted by the Production Manager.
 9. It is highly recommended that all involved with the shows are students at the University of Florida. Any exceptions must be approved by the Executive Board.
@@ -505,7 +506,7 @@ The following requirements must be met for each show in a season:
 
 Florida Players shall produce a New Works Festival in the third slot of the fall semester.
 
-1. The Assistant Production Manager shall serve as the New Works coordinator unless he or she has a conflict with a University of Florida School of Theater and Dance production.
+1. The Assistant Production Manager shall serve as the New Works coordinator unless he or she has a conflict with a University of Florida School of Theatre and Dance production.
 2. In order for a work to be eligible for submission, the work must have been written by a student at the University of Florida at the time of proposal. Additionally, all proposed works must have never been previously produced and/or financially supported by another institution.
 3. The play produced shall be established by the Production Selection Committee.
 4. Proposals for these new works shall be made in writing to the Production Selection Committee and shall include the information outlined in the New Works Proposal Guidelines.
@@ -514,7 +515,7 @@ Florida Players shall produce a New Works Festival in the third slot of the fall
 7. The amount of works passed on to the festival is at the discretion of the Production Selection Committee.
 8. The director(s) and producer of the production are also prohibited from acting.
 9. In the event that a new work is passed, edits to the script will be permitted within reason at the discretion of the Assistant Production Manager up to three weeks prior to opening night
-10. It is highly recommended that all involved with the show are students at the University of Florida. However, exceptions can be approved by the executive committee.
+10. It is highly recommended that all involved with the show are students at the University of Florida. However, exceptions can be approved by the Executive Board.
 11. It is recommended that no more than three new works are featured in any one festival, however this is left to the discretion of the Production Selection Committee based upon length of work and difficulty of execution.
 12. The New Works Festival shall be mounted as a singularly produced festival sharing a single design team and budget.
 
