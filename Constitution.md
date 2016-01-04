@@ -281,38 +281,32 @@ Attendance at these events will be recorded by the Secretary. If an officer is u
 ### Section 1 — Election of the Executive Board
 
 1. Nominations of all elected board positions shall be made and closed at the last regular meeting of the spring semester in April.
-2. Nominees for each executive board position will be given the opportunity to speak before elections are held.
-3. The election of board members shall be held at the last meeting of the spring semester Using secret ballots. A plurality of quorum is needed for election.
-4. In the case of a vacancy in officer a meeting will be called to a elect a replacement, with election necessitation a plurality of total Voting Membership present.
-5. In the case of appointed positions, if no person applies for the position then a special election will be called during which an election for that position will be held at the discretion of the Executive Board.
-6. In the case of a tie between two nominees, a run—off election will be held between the top tiered nominees. A plurality of the total
- Voting Membership is needed for election.
+2. Nominees for each Executive Board position will be given the opportunity to speak before elections are held.
+3. The election of board members shall be held at the last meeting of the spring semester using secret ballots. A plurality of quorum is needed for election.
+4. In the case of a vacancy in officer a meeting will be called to a elect a replacement, with election necessitating a plurality of total voting membership present.
+5. In the case of appointed positions, if no person applies for the position then a special election will be called during which an election for that position will be held.
+6. In the case of a tie between two or more nominees, a run—off election will be held between the tied nominees. A plurality of the total voting membership is needed for election.
 
 ### Section 2 — Election Policies
 
 1. The current Artistic Director shall preside over all elections unless this creates a conflict of interest, in which case the Assistant Artistic Director or the Faculty Advisor shall preside.
-2. Secret ballots shall be used at all elections
-3. Absentee ballotting is NOT permitted in any election
+2. Secret ballots shall be used at all elections.
+3. Absentee ballotting is not permitted in any election.
 4. Special elections may be called by the Artistic Director as necessary.
 5. Election results shall be posted no later than forty-eight (48) hours after the election.
-6. Two Executive board members will count the ballots. The Faculty Advisor shall be present at this counting. No Executive Board members running in said election may be permitted to count ballots.
-7. Nominees must be present at the election to accept an elected position.
-8. Florida Players WILL NOT be allowed to preside over the elections of its subgroups. Officers may provide assistance to the request of the subgroup but all elections for a subgroup will be upheld to the letter of that sub-group’s constitution. The officers may provide assistance in any way requested with the exception of influencing elections.
+6. Two Executive Board members will count the ballots. The Faculty Advisor shall be present at this counting. No Executive Board members running in said election may be permitted to count ballots.
+7. Nominees must be present in person, or over a live network stream, at the election to run for or to accept an elected position.
+8. Florida Players will not be allowed to preside over the elections of its subgroups. Officers may provide assistance at the request of the subgroup but all elections for a subgroup will be upheld to the letter of that subgroup's constitution. The officers may provide assistance in any way requested with the exception of influencing elections.
 
 ### Section 3 — Eligibility
 
 Executive Board Requirements:
 
-1. All potential elected board members must have held a voting membership in Florida Players for two (2) semesters before the date of election. This may include the semester in which the election was held. If no interested parties meet these requirements, exceptions for one (1) semester of membership may be made at the discretion of the Executive Board.
-2. All potential appointed board members must submit a letter of intent and a resume to the board member who currently holds the position or senior position in which he or she is interested. It is suggested that appointed board members should have held voting membership in Florida Players for two (2) semesters before appointment; however, if no interested parties meet this requirement, exceptions for one (1) semester of membership may be made at the discretion of the Executive Board.
+1. All potential elected board members must have held a voting membership in Florida Players for one (1) semester before the date of election. This may include the semester in which the election was held. If no interested parties meet these requirements, exceptions for membership may be made at the discretion of the Executive Board.
+2. All potential appointed board members must submit a letter of intent and a resume to the board member who currently holds the position or senior position in which he/she is interested. It is suggested that appointed board members should have held voting membership in Florida Players for one (1) semester before appointment; however, if no interested parties meet this requirement, exceptions for membership may be made at the discretion of the Executive Board.
 3. All potential board members must meet all requirements of the Student Organization Officers put forward by the Office of Student Activities.
-4. All potential board members must have the awareness of and willingness to accept the responsibilities of the office as outlined in Article IV of this constitution and are required to sign the respective Rights and Responsibilities Contracts prior to taking their position.
+4. All potential board members must have the awareness of and willingness to accept the responsibilities of the office as outlined in this constitution and are required to sign their respective Rights and Responsibilities Contracts prior to taking their positions.
 5. It is highly recommended that those who run for a board position sit on a standing committee for at least one (1) semester.
-
-### Section 4 — Replacement and Removal of Production Selection Committee Members
-
-1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
-2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the nest regularly held general meeting. 
 
 ## Article VIII — Faculty Advisor
 
@@ -320,36 +314,34 @@ Executive Board Requirements:
 
 The responsibilities of the Faculty Advisor shall be the following:
 
-1. To be present at all scheduled Florida Players voting meetings including but not limited to, elections and impeachments.
+1. To be present at all scheduled Florida Players voting meetings including but not limited to: elections and impeachments.
 2. To serve as an ex-officio member on all Florida Players standing committees.
-3. To serve as a liaison between Florida Players and the University of Florida’s School of Theatre and Dance.
+3. To serve as a liaison between Florida Players and the University of Florida's School of Theatre and Dance.
 
 ### Section 2 — Appointment of the Faculty Advisor
 
-1. The faculty Advisor shall be appointed by the majority vote of the Executive Board in the fall semester.
-2. The faculty advisory must be a faculty or staff member employed at UF.
-3. Term of office for Faculty Advisor may last not longer than one (1) year with possibility of re-appointment.
+1. The Faculty Advisor shall be appointed by the majority vote of the Executive Board in the fall semester.
+2. The Faculty Advisor must be a faculty or staff member employed at UF.
+3. The term of office for Faculty Advisor may last not longer than one (1) year with possibility of re-appointment.
 
 ### Section 3 — Process of Replacement
 
-1. In the event where the Faculty Advisor steps down from their position for whatever reason, the Florida Players Executive Board will hold a meeting with the University of Florida’s School of Theatre and Dance Director.
-2. Upon recommendation by the director, the executive board will vote in a new Advisor
+1. In the event that the Faculty Advisor steps down from his/her position for whatever reason, the Florida Players Executive Board will hold a meeting with the University of Florida’s School of Theatre and Dance Director.
+2. Upon recommendation by the School of Theatre and Dance director, the Executive Board will vote on a new Advisor.
 
 ## Article IX — Finance
 
 ### Section 1 — Source of Funding
 
-The Florida Players Director of Finance shall prepare and submit a budget request each year in order to request funding from Student Government. Other finances are derived from donations made by individuals, corporations or departments. There
-are no dues charged to any members of this organization.
+The Florida Players Director of Finance shall prepare and submit a budget request each year in order to request funding from Student Government. Other finances are derived from donations made by individuals, corporations, or departments. No dues are charged to any member of this organization.
 
 ### Section 2 — Management
 
-1. The finances of Florida Players are to be managed by the Director of Finance and the finance committee of Florid Players according to the policies outlined by Student Government.
-2. The management of Florida Players finances comes in the discretion of the Treasurer of Student Government of the University of Florida.
+The finances of Florida Players are to be managed by the Director of Finance according to the policies outlined by Student Government. The management of Florida Players finances comes with the approval of the Treasurer of Student Government of the University of Florida.
 
 ### Section 3 — Budgets
 
-Budgets are to be submitted to the Student Government of the University of Florida at such times and in such a manner as may be prescribed by the by-laws of that body. The budgets are to be prepared by the Florida Players Treasurer and the Finance Committee. Before the budget is submitted it must be approved by a simple majority of the Executive Board.
+Budgets are to be submitted to the Student Government of the University of Florida at such times and in such a manner as may be prescribed by the by-laws of that body. The budgets are to be prepared by the Director of Finance. Before the budget is submitted, it must be approved by a simple majority of the Executive Board.
 
 ### Section 4 — Special Allocations
 
@@ -357,23 +349,39 @@ Special Allocations are to be submitted to the Student Government of the Univers
 
 ## Article X — Dissolution of Organization
 
-In the event this organization dissolved, all money left in outside revenue, after outstanding debts and claims have been paid, and all other assets after liquidated, shall be donated to Broadway Cares Equity Fights AIDS.
+In the event this organization is dissolved, all money left in the outside revenue account, after outstanding debts and claims have been paid and after all other assets have been liquidated, shall be donated to Broadway Cares Equity Fights AIDS.
 
 ## Article XI — Meetings
 
 ### Section 1 — Meeting Times
 
-1. Florida Players shall call a general meeting of the Full membership at 5:00pm or 5:30pm on the first Wednesday of each month of the fall and spring semesters in a place to be determined by the Artistic Director.
-2. Special meetings are called by the Artistic Director as he or she deems necessary.
+1. Florida Players shall call a general meeting of the full membership at 5:00pm or 5:30pm on the first Wednesday of each month of the fall and spring semesters in a place to be determined by the Artistic Director. The meeting may be rescheduled in the case of a scheduling conflict hindering the attendance of a significant portion of the general body, so long as notice is provided at least one (1) week in advance. 
+2. Additional regularly scheduled meetings may be added at the discretion of the Executive Board.
+3. Special meetings are called by the Artistic Director as he/she deems necessary.
 
 ### Section 2 — Meeting Policies
 
 Florida Players shall maintain the following policies for all general and committee meetings:
 
-1. all meetings shall be open.
-2. All committees must take minute of thei rmeetings. The chair of each committee shall provide them to the origination’s Secretary in due time, and give a report at each Florida Players general meeting.
-3. All meeting times, locations and agenda must be posted at least forty-right (48) hours in advance, except in the case of special meetings called by the chair of that committee or the President of Florida Players.
-4. No other Florid Players related event is allowed to occur during scheduled general body meetings.
+#### Part 1 — General Body Meeting Policies
+
+1. All general body meetings shall be open to the public.
+2. The secretary shall give a summary of all relevant committee meetings. 
+3. All meeting times, locations and agenda must be posted at least forty-eight (48) hours in advance, except in the case of special meetings called by the Artistic Director.
+4. No other Florida Players related event is allowed to occur during scheduled general body meetings.
+
+#### Part 2 — Committee Meeting Policies
+
+1. All committees must take minutes of their meetings, which shall be given to the Secretary within forty-eight (48) hours.
+2. All meeting times, locations and agenda must be posted at least forty-eight (48) hours in advance, except in the case of special meetings called by the chair of that committee or the Artistic Director.
+
+#### Part 3 — Executive Board Meeting Policies
+
+1. All Executive Board members must be present at every meeting unless excused as per the attendance policies discussed in this constitution.
+2. The Secretary will take minutes of every Executive Board meeting.
+3. Executive Board meetings are not open to the public, however, meeting minutes will be provided to the general body by the Secretary.
+4. The Executive Board shall meet on a bi-weekly basis at a regular time and place, as determined by the Executive Board at the beginning of each semester.
+5. The Board shall meet to discuss the state of Florida Players and all of its programs, events, and affairs.
 
 ## Article XII — Programs and Special Events
 
@@ -433,11 +441,16 @@ This committee shall consist of the Director of Finance, who shall serve as the 
 
 ### Section 3 — Production Selection Committee
 
-This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players Voting Membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theatre.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
+This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players voting membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theatre.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
 
 1. To read all proposals and plays and come prepared to the selection committee hearing ready to discuss each proposal.
 2. To uphold the constitution when making selections.
 3. To be free of bias when voting for proposals.
+
+#### Part 1 — Replacement and Removal of Production Selection Committee Members
+
+1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
+2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the nest regularly held general meeting. 
 
 ### Section 4 — Special Events Committee
 
@@ -471,7 +484,7 @@ This committee shall consist of the Assistant Artistic Director, who shall serve
 
 ### Section 7 — Appeals
 
-In the event that a decision made by any committees is contradictory to this Constitution any Florida Players member may move to appeal that decision at any Florida Players meeting. A two-thirds (2/3) vote of the total voting Membership present shall be necessary to effect such a reversal.
+In the event that a decision made by any committees is contradictory to this Constitution any Florida Players member may move to appeal that decision at any Florida Players meeting. A two-thirds (2/3) vote of the total voting membership present shall be necessary to effect such a reversal.
 
 ## Article XIV — Productions
 
@@ -482,7 +495,7 @@ In order to provide students with a better laboratory experience for training an
 Florida Players shall fund productions in the fall and spring semesters to be student produced and predominantly student run. Faculty may be invited to supervise by the student proposing the show.
 
 1. The plays to be produced shall be established by the Production Selection Committee.
-2. Only Voting members who have maintained membership for two semesters including the semester of the time proposals are eligible to propose shows. It is the responsibility of the secretary to ensure that all incoming proposals are submitted by those holding voting membership.
+2. Only voting members who have maintained membership for two semesters including the semester of the time proposals are eligible to propose shows. It is the responsibility of the secretary to ensure that all incoming proposals are submitted by those holding voting membership.
 3. Proposals for these shows shall be made in writing to the Production Selection Committee, and shall include the information outlined in the Production Proposal Guidelines.
 4. A director may not propose a show if they have a conflict with a University of Florida School of Theatre and Dance production mandated by their department unless permission is given by his or her department head.
 5. The committee shall select the most promising of these proposals after each producer and director is interviewed by the committee regarding their intentions and overall concept for the piece.
@@ -545,7 +558,7 @@ The directors, designers and actors of each show will be allowed the option to p
 
 ###  Section 1 — Adoption of this constitution
 
-This constitution upon the adoption by the Voting Membership and approval by the University of Florida Center for Student Involvement, shall go into effect immediately. It shall supersede and void all previous Constitutions of Florida Players.
+This constitution upon the adoption by the voting membership and approval by the University of Florida Center for Student Involvement, shall go into effect immediately. It shall supersede and void all previous Constitutions of Florida Players.
 
 ### Section 2 — Authorities over this Constitution
 
@@ -555,7 +568,7 @@ This Constitution comes under all rules and regulations of The Student Body Cons
 
 ### Section 1 — Proposal of Amendments
 
-Amendments to this constitution may be proposed by any Voting Member at any meeting. A two-thirds (2/3) vote of the Total Voting Membership at the next regular meeting shall be necessary to pass such an amendment. The vote may be taken at the same meeting if the two-third (2/3) are present.
+Amendments to this constitution may be proposed by any voting member at any meeting. A two-thirds (2/3) vote of the total voting membership at the next regular meeting shall be necessary to pass such an amendment. The vote may be taken at the same meeting if the two-third (2/3) are present.
 
 ### Section 2 — Approval of Amendments
 
