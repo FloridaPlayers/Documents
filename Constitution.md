@@ -1,7 +1,7 @@
 # Florida Players Constitution 
 *Updated: May 2014*
 
-## Article I Name of Organization
+## Article I — Name of Organization
 
 The name of this organization shall be Florida Players. This organization will utilize the initials FP in publicity material and correspondence.
 
@@ -9,39 +9,39 @@ The name of this organization shall be Florida Players. This organization will u
 
 Florida Players is a student-run theater company providing opportunities and support for its members to explore, create, and showcase their discoveries within the world of theater. Florida players is sponsored by UF Student Government and open to all University of Florida students regardless of major as well as the greater Gainesville community. Florida Players offers members the chance to explore all aspects of theater, including but not limited to: direction; design; performance; and play-writing, as well as leadership positions. Florida Players also acts as an umbrella organization for the dance company Floridance.
 
-## Article III Compliance Statement
+## Article III — Compliance Statement
 
 Upon approval by the Department of Student Activities and Involvement, Florida Players shall be a registered student organization at the University of Florida. Florida Players shall comply with all local, state, and federal laws, as well as all University of Florida regulations, policies, and procedures. Such compliance includes, but is not limited to, the university’s regulations related to non-discrimination, sexual harassment (including sexual misconduct, dating violence, domestic violence, and stalking), hazing, commercial activity, and student leader eligibility.
 
-## ARTICLE IV University Regulations
+## Article IV — University Regulations
 
 In order to be registered, student organizations must comply with the University of Florida’s Non- Discrimination, Sexual Harassment, and Hazing Policies. Constitutions must include the verbatim sections below. A student organization whose primary purpose is religious will not be denied registration as a Registered Student Organization on the ground that it limits membership or leadership positions to students who share the religious beliefs of the organization. The University has determined that this accommodation of religious belief does not violate its Non-Discrimination policy.
 
-### Section A. Non-Discrimination
+### Section 1 — Non-Discrimination
 
 Florida Players agrees that it will not discriminate on the basis of race, creed, color, religion, age, disability, sex, sexual orientation, gender identity and expression, marital status, national origin, political opinions or affiliations, genetic information and veteran status as protected under the Vietnam Era Veterans' Readjustment Assistance Act.
 
-### Section B. Sexual Harassment
+### Section 2 — Sexual Harassment
 
 Florida Players agrees that it will not engage in any activity that is unwelcome conduct of sexual nature that creates a hostile environment.
 
-### Section C. Hazing
+### Section 3 — Hazing
 
 Florida Players agrees that it will not initiate, support, or encourage any events or situations that recklessly, by design, or intentionally endanger the mental or physical health or safety of a student for any purpose including but not limited to initiation or admission into or affiliation with any student group or organization.
 
-### Section D. Responsibility to Report
+### Section 4 — Responsibility to Report
 
 If this organization becomes aware of any such conduct described in this article, Florida Players will report it immediately to Student Activities and Involvement, the Director of Student Conduct and Conflict Resolution, or the University’s Title IX Coordinator.
 
-## ARTICLE V – Membership
+## Article V — Membership
 
 Membership in this organization is open to all enrolled students at the University of Florida. Non-enrolled students, spouses, faculty, and staff may be associate members, however, they may not vote or hold office. All members and associate members are free to leave and disassociate without fear of retribution, retaliation, or harassment.
 
-## ARTICLE VI- Officers
+## Article VI — Officers
 
 The Officers of Florida Players are the members of the Executive Board. Term of office for each position may last no longer than one (1) year with possibility of reelection. These officers shall be announced and honored at both the UF SOTD convocation and Florida Player’s annual banquet. They will officially be installed at the close of the mandatory Transition Meeting. The Transition Meeting will consist of break–out sessions in which the old board member will conference with the new board member and hand over a working handbook for the position. This meeting will also include an open forum between the old board and new board to allow for questions and discussion. At this meeting, all incoming and returning board members will sign his or her Rights and Responsibilities Contract. The old secretary will close the meeting at which time their terms of office will commence. All positions are elected by the voting membership with the exception of Assistant Webmaster and Director of Publicity, which are appointed.
 
-### Section 1 – President/ Artistic Director
+### Section 1 — President/ Artistic Director
 
 1. To preside over all Florida Players meetings and conduct or delegate all Florida Players business.
 2. To serve as ex-officio of all Florida Players committees.
@@ -60,7 +60,7 @@ Executive Board when he or she deems such action necessary.
 14. The artistic director holds the right to sit in on any meeting as long as they have given the appropriate person 24-hour notice.
 15. To plan and produce one workshop with assistance from the assistant artistic director.
 
-### Section 2 – Vice President/ Assistant Artistic Director
+### Section 2 — Vice President/ Assistant Artistic Director
 
 The office of Assistant Artistic Director shall be equivalent to the office of Vice President as per Student Government regulations. The office shall be referred to only as Assistant Artistic Director. The responsibilities of the Assistant Artistic Director shall be the following:
 
@@ -273,9 +273,9 @@ forty – eight (48) hours before the meeting is to take place.
 3. His or her office shall be filled by a special election immediately after conviction. This special election shall be presided over by the current President, or if the President has been removed, the meeting shall be presided over by the current Vice president unless this creates a conflict of interest.
 4. If the impeachment does not follow the procedure outlined in Article VII secton4 of the constitution then the impeachment is found to be null and void.
 
-## Article VII – Elections
+## Article VII — Elections
 
-### Section 1 – Election of the Executive Board
+### Section 1 — Election of the Executive Board
 
 1. Nominations of all elected board positions shall be made and closed at the last regular meeting of the spring semester in April.
 2. Nominees for each executive board position will be given the opportunity to speak before elections are held.
@@ -285,7 +285,7 @@ forty – eight (48) hours before the meeting is to take place.
 6. In the case of a tie between two nominees, a run—off election will be held between the top tiered nominees. A plurality of the total
  Voting Membership is needed for election.
 
-### Section 2 – Election Policies
+### Section 2 — Election Policies
 
 1. The current Artistic Director shall preside over all elections unless this creates a conflict of interest, in which case the Assistant Artistic Director or the Faculty Advisor shall preside.
 2. Secret ballots shall be used at all elections
@@ -296,7 +296,7 @@ forty – eight (48) hours before the meeting is to take place.
 7. Nominees must be present at the election to accept an elected position.
 8. Florida Players WILL NOT be allowed to preside over the elections of its subgroups. Officers may provide assistance to the request of the subgroup but all elections for a subgroup will be upheld to the letter of that sub-group’s constitution. The officers may provide assistance in any way requested with the exception of influencing elections.
 
-### Section 3 - Eligibility
+### Section 3 — Eligibility
 
 Executive Board Requirements:
 
@@ -306,14 +306,14 @@ Executive Board Requirements:
 4. All potential board members must have the awareness of and willingness to accept the responsibilities of the office as outlined in Article IV of this constitution and are required to sign the respective Rights and Responsibilities Contracts prior to taking their position.
 5. It is highly recommended that those who run for a board position sit on a standing committee for at least one (1) semester.
 
-### Section 4 – Replacement and Removal of Production Selection Committee Members
+### Section 4 — Replacement and Removal of Production Selection Committee Members
 
 1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
 2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the nest regularly held general meeting. 
 
-## Article VIII – Faculty Advisor
+## Article VIII — Faculty Advisor
 
-### Section 1 – Responsibility
+### Section 1 — Responsibility
 
 The responsibilities of the Faculty Advisor shall be the following:
 
@@ -321,49 +321,49 @@ The responsibilities of the Faculty Advisor shall be the following:
 2. To serve as an ex-officio member on all Florida Players standing committees.
 3. To serve as a liaison between Florida Players and the University of Florida’s School of Theater and Dance.
 
-### Section 2 – Appointment of the Faculty Advisor
+### Section 2 — Appointment of the Faculty Advisor
 
 1. The faculty Advisor shall be appointed by the majority vote of the Executive Board in the fall semester.
 2. The faculty advisory must be a faculty or staff member employed at UF.
 3. Term of office for Faculty Advisor may last not longer than one (1) year with possibility of re-appointment.
 
-### Section 3 – Process of Replacement
+### Section 3 — Process of Replacement
 
 1. In the event where the Faculty Advisor steps down from their position for whatever reason, the Florida Players Executive Board will hold a meeting with the University of Florida’s School of Theatre and Dance Director.
 2. Upon recommendation by the director, the executive board will vote in a new Advisor
 
-## Article IX – Finance
+## Article IX — Finance
 
-### Section 1 – Source of Funding
+### Section 1 — Source of Funding
 
 The Florida Players Director of Finance shall prepare and submit a budget request each year in order to request funding from Student Government. Other finances are derived from donations made by individuals, corporations or departments. There
 are no dues charged to any members of this organization.
 
-### Section 2 – Management
+### Section 2 — Management
 
 1. The finances of Florida Players are to be managed by the Director of Finance and the finance committee of Florid Players according to the policies outlined by Student Government.
 2. The management of Florida Players finances comes in the discretion of the Treasurer of Student Government of the University of Florida.
 
-### Section 3 - Budgets
+### Section 3 — Budgets
 
 Budgets are to be submitted to the Student Government of the University of Florida at such times and in such a manner as may be prescribed by the by-laws of that body. The budgets are to be prepared by the Florida Players Treasurer and the Finance Committee. Before the budget is submitted it must be approved by a simple majority of the Executive Board.
 
-### Section 4 – Special Allocations
+### Section 4 — Special Allocations
 
 Special Allocations are to be submitted to the Student Government of the University of Florida at the discretion of the Production Manager and Director of Finance. Before the Special Allocation is submitted it must be approved by a simple majority of the Executive Board.
 
-## Article X - Dissolution of Organization
+## Article X — Dissolution of Organization
 
 In the event this organization dissolved, all money left in outside revenue, after outstanding debts and claims have been paid, and all other assets after liquidated, shall be donated to Broadway Cares Equity Fights AIDS.
 
-## Article XI – Meetings
+## Article XI — Meetings
 
-### Section 1 - Meeting Times
+### Section 1 — Meeting Times
 
 1. Florida Players shall call a general meeting of the Full membership at 5:00pm or 5:30pm on the first Wednesday of each month of the fall and spring semesters in a place to be determined by the Artistic Director.
 2. Special meetings are called by the Artistic Director as he or she deems necessary.
 
-### Section 2 – Meeting Policies
+### Section 2 — Meeting Policies
 
 Florida Players shall maintain the following policies for all general and committee meetings:
 
@@ -372,9 +372,9 @@ Florida Players shall maintain the following policies for all general and commit
 3. All meeting times, locations and agenda must be posted at least forty-right (48) hours in advance, except in the case of special meetings called by the chair of that committee or the President of Florida Players.
 4. No other Florid Players related event is allowed to occur during scheduled general body meetings.
 
-## Article XII - Programs and Special Events
+## Article XII — Programs and Special Events
 
-### Section 1 – Programs
+### Section 1 — Programs
 
 Florida Players shall maintain the following programs outside for the Production Season:
 
@@ -387,7 +387,7 @@ Florida Players shall maintain the following programs outside for the Production
  1. Florida Players may undertake new programs at the discretion of the Executive Board without amending this Constitution as long as the new program remains in its experimental phase.
  2. Once a new program has reached maturation this Constitution must be amended for its continued existence.
 
-### Section 2- Special Events
+### Section 2 — Special Events
 
 Florida Players shall maintain the following events outside of the Production Season:
 
@@ -400,7 +400,7 @@ Florida Players shall maintain the following events outside of the Production Se
 5. Workshops
 6. Various events to promote Florida Players sense of community
 
-## Article XIII – Standing Committees
+## Article XIII — Standing Committees
 
 Florida Players shall have the following standing committees: 
 - The Executive Committee (Board)
@@ -410,7 +410,7 @@ Florida Players shall have the following standing committees:
 - The Publicity Committee
 - the Community Outreach Committee
 
-### Section 1 – The Executive Committee (Board)
+### Section 1 — The Executive Committee (Board)
 
 This board shall consist of the Artistic Director, who shall serve as chair, the Assistant Artistic Director, the Secretary, the Director of Finance, the Production Manager, the Assistant Production Manger, the Director of Publicity, the Assistant Director of Publicity, the Director of Special Events, the Web Manager, the Assistant Web Manager and the Historian. The Faculty Advisor shall serve as ex-officio member of this committee. The duties of the Executive Board shall be the following:
 
@@ -419,7 +419,7 @@ This board shall consist of the Artistic Director, who shall serve as chair, the
 3. To act as liaison Board to all outside organizations as well as those organizations under the umbrella of Florida Players.
 4. To review the Florida Players Constitution annually no later than at the start of the spring semester and make changes as seen fit.
 
-### Section 2 – Finance Committee
+### Section 2 — Finance Committee
 
 This committee shall consist of the Director of Finance, who shall serve as the chair, any interested Florida Players member approved by the Director of Finance. Sub-groups named in Article II of this constitution are encouraged to select a member to serve as a representative on the finance committee. The Faculty Advisor shall serve as an ex-officio member on this committee. The duties of the Finance Committee shall be the following:
 
@@ -428,7 +428,7 @@ This committee shall consist of the Director of Finance, who shall serve as the 
 3. To approve the budgets of all sub-groups named in Article II of this Constitution under the umbrella organization Florida Players.
 4. To allocate Student Government Funds to produce quality and free entertainment for the University and its Students.
 
-### Section 3 – Production Selection Committee
+### Section 3 — Production Selection Committee
 
 This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players Voting Membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theater.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
 
@@ -436,7 +436,7 @@ This committee shall consist of the Production Manager, who shall serve as the c
 2. To uphold the constitution when making selections.
 3. To be free of bias when voting for proposals.
 
-### Section 4 – Special Events Committee
+### Section 4 — Special Events Committee
 
 This committee shall consist of the Director of Special Events, who shall serve as the chair and any interested Florida Players members as approved by the Director of Special Events. The duties of this committee shall be the following:
 
@@ -448,7 +448,7 @@ This committee shall consist of the Director of Special Events, who shall serve 
  1. Financial – to innovate and maintain methods to gain financial support from
     alternative sources.
 
-### Section 5- Publicity Committee
+### Section 5 — Publicity Committee
 
 This committee shall consist of the Director of Publicity who shall serve as the chair, the Assistant Director of Publicity, and any interested Florida Players members as approved by the Director of Publicity. Publicity included, but is not limited to, the following: programs, brochures, posters, flyers, sighs, press releases, tarps and any other forms of advertising. The duties of the Publicity Committee shall be the following:
 
@@ -466,15 +466,15 @@ This committee shall consist of the Assistant Artistic Director, who shall serve
 2. To introduce theater as an outlet and activity to the people of the community.
 3. To use theater as a tool to spread important ideas and messages throughout the community.
 
-### Section 7- Appeals
+### Section 7 — Appeals
 
 In the event that a decision made by any committees is contradictory to this Constitution any Florida Players member may move to appeal that decision at any Florida Players meeting. A two-thirds (2/3) vote of the total voting Membership present shall be necessary to effect such a reversal.
 
-## Article XIV – Productions
+## Article XIV — Productions
 
 In order to provide students with a better laboratory experience for training and experimentation, Florida Players shall establish a laboratory theater program.
 
-### Section 1 – Selection and Funding 
+### Section 1 — Selection and Funding 
 
 Florida Players shall fund productions in the fall and spring semesters to be student produced and predominantly student run. Faculty may be invited to supervise by the student proposing the show.
 
@@ -487,7 +487,7 @@ Florida Players shall fund productions in the fall and spring semesters to be st
 7. The third slot of the fall semester shall be a New Works Festival unless no New works is proposed.
 8. Florida Players will fully mount all productions selected as a part of the production season fairly, evenly, and without prejudice, bias or favoritism doing its best to meet all technical, financial and personal needs as it fitting to the Florida Players Budget and to each shows specific budget.
 
-### Section 2 – Production Requirements
+### Section 2 — Production Requirements
 
 The following requirements must be met for each show in a season:
 
@@ -501,7 +501,7 @@ The following requirements must be met for each show in a season:
 8. The cast lists for each production are to be regulated and posted by the Production Manager.
 9. It is highly recommended that all involved with the shows are students at the University of Florida. Any exceptions must be approved by the Executive Board.
 
-### Section 3 – The New Works Festival
+### Section 3 — The New Works Festival
 
 Florida Players shall produce a New Works Festival in the third slot of the fall semester.
 
@@ -518,15 +518,15 @@ Florida Players shall produce a New Works Festival in the third slot of the fall
 11. It is recommended that no more than three new works are featured in any one festival, however this is left to the discretion of the Production Selection Committee based upon length of work and difficulty of execution.
 12. The New Works Festival shall be mounted as a singularly produced festival sharing a single design team and budget.
 
-### Section 4 – Production Contracts
+### Section 4 — Production Contracts
 
 Any person involved in a Florida Players production must sign and adhere to the contract designated for their specified role in the show. Failure to do so will nullify their involvement in the production.
 
-### Section 5 – Feedback
+### Section 5 — Feedback
 
 The directors, designers and actors of each show will be allowed the option to participate in a talkback, organized by the show’s producer, director and stage manager and moderated by the Artistic Director of Florida Players or his or her designee, space and time permitting. If a space is not available or scheduling conflicts are too burdensome, a director may elect to include feedback inserts in their programs. The questions for these feedback inserts will be created through collaboration between Artistic Director, Production Manager and Director of the production.
 
-### Section 6 – Behavioral Documentation Process
+### Section 6 — Behavioral Documentation Process
 
 1. In the case that any cast or crew member has committed an act that may be deemed as inappropriate during an official rehearsal or performance of a show, or if any member of a show is in major breach of contract, a Behavioral Documentation Form must be filed with the Artistic Director in order to record the incident. This form must be filed within three (3) days of the incident, and must be signed by: the individual filing the form (the Complainant) the individual who the form is being filed against (the Respondent) and two (2) witnesses. If the form is not filed within three (3) days, the incident will be considered null and void.
 2. After one (1) Behavioral Documentation Forms have been filed against the same individual, the Artistic Director will step in to mediate the issue between the respondent and the Complainant.
@@ -538,22 +538,22 @@ The directors, designers and actors of each show will be allowed the option to p
 8. Florida Players reserves the right to deny or revoke membership to any member by majority vote of the Executive Board and ask any person to leave any event sponsored or co-sponsored by Florida Players in response to a behavioral issue or in response to a history of behavioral issues.
 9. Florida Players retains the right to archive Behavioral Forms and breached contracts. Florida Players also retains the rights to have archived Behavioral Forms and breached contract brought into discussion in good faith during elections and during Production Selection Committee Meetings.
 
-## Article XV - Adoption and Authority
+## Article XV — Adoption and Authority
 
-###  Section 1 – Adoption of this constitution
+###  Section 1 — Adoption of this constitution
 
 This constitution upon the adoption by the Voting Membership and approval by the University of Florida Center for Student Involvement, shall go into effect immediately. It shall supersede and void all previous Constitutions of Florida Players.
 
-### Section 2 – Authorities over this Constitution
+### Section 2 — Authorities over this Constitution
 
 This Constitution comes under all rules and regulations of The Student Body Constitution of the University of Florida and all rules and regulations governing the University of Florida and its students.
 
-## Article XVI – Amendments to the Constitution
+## Article XVI — Amendments to the Constitution
 
-### Section 1 - Proposal of Amendments
+### Section 1 — Proposal of Amendments
 
 Amendments to this constitution may be proposed by any Voting Member at any meeting. A two-thirds (2/3) vote of the Total Voting Membership at the next regular meeting shall be necessary to pass such an amendment. The vote may be taken at the same meeting if the two-third (2/3) are present.
 
-### Section 2 – Approval of Amendments
+### Section 2 — Approval of Amendments
 
 All amendments to the constitution must immediately be submitted directly to the Department for Student Activities and Involvement in writing for review and approval.
