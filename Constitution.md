@@ -65,36 +65,36 @@ The office of Artistic Director shall be equivalent to the office of President a
 
 The office of Assistant Artistic Director shall be equivalent to the office of Vice President as per Student Government regulations. The office shall be referred to only as Assistant Artistic Director. The responsibilities of the Assistant Artistic Director shall be the following:
 
-1. To assume the duties of any officer in the event of their absence of inability at the discretion of the executive board and to serve until a special election is held. 
-2. To serve as parliamentarian at all general body meetings.
-3. To serve as liaison between Florida Players and the greater UF and Gainesville community.
+1. To assume the duties of any officer in the event of their absence or inability at the discretion of the Executive Board and to serve until a special election is held. 
+2. To serve as moderator of all general body meetings.
+3. To serve as liaison, in conjunction with the Director of Community Affairs, between Florida Players and the greater UF and Gainesville community.
 4. To turn in all office log hours at the end of every month.
-5. To oversee the planning, scheduling, and execution of regularly scheduled workshops, to be defined later in this constitution.
-6. To over see the mentorship program to be defined later in this constitution. 
-7. To create and manage, with the Special Events Director, any new programs the Executive Board shall decide to implement in its experimental phase. (Staged readings)
-8. With the Artistic Director, to arrange for private meetings with each officer on the Executive Board to discuss performances and any professional disputes twice during a semester, ones halfway through the fall/spring semester and once again at the end of the fall/spring semesters.
-9. To appoint an Executive board member to attend each meeting of the Student Government Senate and the Fine Arts College Council. 
-10. To reserve space for general body meetings. (Workshops as well.)
+5. To oversee the planning, scheduling, and execution of regularly scheduled workshops, defined later in this constitution.
+6. To oversee the mentorship program, defined later in this constitution. 
+7. To create and manage, in conjunction with the Director of Special Events, any new programs the Executive Board shall decide to implement in its experimental phase.
+8. To arrange, in conjunction with the Artistic Director, for private meetings with each officer on the Executive Board to discuss performances and any professional disputes twice during a semester, once halfway through, and once at the end of each semester.
+9. To appoint an Executive Board member to attend each meeting of the Student Government Senate and the Fine Arts College Council. 
+10. To reserve space for general body meetings and workshops.
 
 ### Section 3 – Secretary
 
 The responsibilities of the Secretary shall be the following:
 
-1. To keep minutes of all Florida Players meetings.
+1. To keep minutes of all Florida Players Executive Board and general body meetings.
 2. To coordinate minutes from all committee meetings and to report the same to the Executive Board.
-3. To keep a record of attendance of the Voting Membership.
-4. To keep a record of attendance of the Executive Board and to notify the Executive board of any excessive absences.
+3. To keep a record of attendance at all Florida Players events.
+4. To keep a record of attendance of the Executive Board and to notify the Executive Board of any excessive absences.
 5. To receive and organize applications for membership in Florida Players.
-6. To keep the minutes of all Executive Board meetings and to report the same to the voting membership at each subsequent Florida Players meetings.
+6. To keep minutes of all Executive Board meetings and to report the same to the voting membership at each subsequent Florida Players meeting.
 7. To notify all current members of the time and place of all meetings.
-8. To keep track of all members’ Florida Players points and member status.
-9. To assign points as seen fit for undefined production positions.
-10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-11. To keep and maintain the designated Florida Players Board in the School of Theatre and Dance hallway.
-12. To maintain the integrity and proofread of all records and official Florida Players publicity, social media, and paperwork. (Programs, email as well)
+8. To keep track of all members' Florida Players points and membership status.
+9. To assign points toward membership as seen fit for undefined production positions.
+10. To maintain an officer's operational handbook to be passed down to the subsequent holder of this office.
+11. To keep and maintain the designated Florida Players bulletin board in the School of Theatre and Dance hallway.
+12. To maintain the integrity of and proofread all records and official Florida Players publicity, social media, and paperwork.
 13. To plan and produce one workshop with assistance from the Assistant Artistic Director.
 
-### Section 4 – Treasurer/Director of Finance
+### Section 4 – Treasurer / Director of Finance
 
 The office of Director of Finance shall be equivalent to the office of Treasurer as per Student Government regulations. The office shall here in be referred to only as Director of Finance. The responsibilities of the Director of Finance shall be the following:
 
