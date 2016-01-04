@@ -68,13 +68,14 @@ The office of Assistant Artistic Director shall be equivalent to the office of V
 1. To assume the duties of any officer in the event of their absence or inability at the discretion of the Executive Board and to serve until a special election is held. 
 2. To serve as moderator of all general body meetings.
 3. To serve as liaison, in conjunction with the Director of Community Affairs, between Florida Players and the greater UF and Gainesville community.
-4. To turn in all office log hours at the end of every month.
+4. To turn in all logged office hours at the end of every month.
 5. To oversee the planning, scheduling, and execution of regularly scheduled workshops, defined later in this constitution.
 6. To oversee the mentorship program, defined later in this constitution. 
 7. To create and manage, in conjunction with the Director of Special Events, any new programs the Executive Board shall decide to implement in its experimental phase.
 8. To arrange, in conjunction with the Artistic Director, for private meetings with each officer on the Executive Board to discuss performances and any professional disputes twice during a semester, once halfway through, and once at the end of each semester.
 9. To appoint an Executive Board member to attend each meeting of the Student Government Senate and the Fine Arts College Council. 
 10. To reserve space for general body meetings and workshops.
+11. To act as a moderator for conflict resolution for all of Florida Players. 
 
 ### Section 3 – Secretary
 
@@ -92,7 +93,7 @@ The responsibilities of the Secretary shall be the following:
 10. To maintain an officer's operational handbook to be passed down to the subsequent holder of this office.
 11. To keep and maintain the designated Florida Players bulletin board in the School of Theatre and Dance hallway.
 12. To maintain the integrity of and proofread all records and official Florida Players publicity, social media, and paperwork.
-13. To plan and produce one workshop with assistance from the Assistant Artistic Director.
+13. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
 ### Section 4 – Treasurer / Director of Finance
 
@@ -101,76 +102,77 @@ The office of Director of Finance shall be equivalent to the office of Treasurer
 1. To keep accurate records of all Florida Players revenues and expenditures.
 2. To serve as chair of the Finance Committee.
 3. To keep an accurate current balance of all Florida Players finances and to keep said balance available for review at all meetings.
-4. To maintain a close working relationship with the Student Government Treasurer the SG Finance Office, the Accountant and the Senate.
-5. To have co-sign authority with the President of Florida Players on all Student Acquisition Requests (SARs).
-6. To prepare the budget request proposal for Student Government Finance.
-7. To oversee the proposition of any and all special allocation requests and to attend the special allocation committee meetings.
-8. To ensure the delegation of funds from the overall Florida Players’ budget to their appropriate subgroups as pre-determined in the Year’s budget.
-9. To propagate budget changes proportionally through Florida Players and its subgroups.
-10. To serve as primary liaison between Florida Players and its subgroups.
-11. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-12. To meet with the treasurer of all Florida
-Players subgroups twice every semester for a report of the financial health of these subgroups.
-13. To plan and produce one workshop with assistance from the Assistant Artistic Director.
+4. To maintain a close working relationship with the Student Government Treasurer the Student Government Finance Office, the Accountant and the Senate.
+5. To submit Student Acquisition Requests (SARs) for any and all Florida Players expenditures prior to purchase. 
+6. To have co-sign authority with the President of Florida Players on all Student Acquisition Requests (SARs).
+7. To serve as primary liaison between Florida Players and the Florida Players budget outreach advisor.
+8. To prepare the budget request proposal for Student Government Finance, and attend Student Government budget hearings in the spring semester.
+9. To oversee the proposition of any and all special allocation requests and to attend the special allocation committee meetings.
+10. To ensure the delegation of funds from the overall Florida Players' budget to their appropriate subgroups as pre-determined in the year's budget.
+11. To propagate budget changes proportionally through Florida Players and its subgroups.
+12. To serve as primary finance liaison between Florida Players and its subgroups.
+13. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
+14. To meet with the treasurer of all Florida Players subgroups at least once every semester for a report of the financial health of these subgroups.
+15. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
 
-### Section 5 – Production Manager (PM)
+### Section 5 – Production Manager
 
 The responsibilities of the Production Manager shall be the following:
 
 1. To serve as chair of the Production Selection Committee.
 2. To act as liaison between Florida Players and the representative in charge of space scheduling and the upkeep of the performance and the rehearsal spaces.
-3. To act as the liaison between Florida Players any technical representative of the University of Florida School of Theatre and Dance, Digital Worlds and Florida Players.
-4. To act as liaison between the chosen directors and producers as well as the Florida Players finance committee.
-5. To coordinate and successfully mount the Production season as outlined in the Production Manager Operational Handbook.
+3. To act as the liaison between Florida Players any technical representative of the University of Florida School of Theatre and Dance, Digital Worlds, and Florida Players.
+4. To act as liaison between the chosen directors and producers as well as the Director of Finance.
+5. To coordinate and successfully mount the Production season as outlined in the Production Manager's Operational Handbook.
 6. To oversee the submission of Student Acquisition Request (SARs) related to the mounting of the production season.
 7. To manage the casting meeting held after callbacks every production season and to regulate the posting of cast lists for each production.
-8. To handle, maintain and keep on record the various Production Contracts.
-9. To ensure the eligibility of proposals in regards to the director’s standing in his or her specific program within the University of Florida’s School of Theatre and Dance.
+8. To handle, maintain, and keep on record the various production contracts.
+9. To ensure the eligibility of proposals in regards to the standing of the directors in their specific programs within the University of Florida’s School of Theatre and Dance.
 10. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-11. With the Artistic Director, to update proposal guidelines and New Works Proposal Guidelines and make them available to members at least 2 weeks before the proposal deadline.
-12. To plan and produce one workshop with assistance from the assistant artistic director. The office of Production Manager shall be succeeded by the Assistant Production Manager.
+11. With the Artistic Director, to update proposal guidelines and New Works proposal guidelines and make them available to members at least 2 weeks before the proposal deadline.
+12. To appoint the Assistant Production Manager, who shall inherit the office of the Production Manager in the following year upon receiving approval of the Executive Board.
+13. To coordinate and facilitate all production and design meetings.
+14. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
-### Section 6 – Assistant Production Manager (APM)
+### Section 6 – Assistant Production Manager
 
 The responsibilities of the Assistant Production Manager shall be the following:
 
-1. To assist the Production Manager with any of the aforementioned responsibilities outlined in Article VI Section V.
+1. To assist the Production Manager with any of the aforementioned responsibilities outlined in Article VI, Section 5.
 2. To assist in keeping track of all Florida Players inventory and storage unit status and to arrange the return of any and all materials to the storage unit post-production in a timely manner.
-3. To coordinate and successfully production manage one show as specified by the Production team.
+3. To coordinate and successfully serve as production manager for one show as specified by the Production Manager.
 4. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
-5. To plan and produce one workshop with the assistance from the assistant artistic director. The Assistant Production Manager shall succeed the office of Production Manager. The office of Assistant Production Manager shall be appointed by application by the Production manager with majority approved from the executive board.
-
+5. The Assistant Production Manager shall inherit the office of Production Manager. The office of Assistant Production Manager shall be appointed by application by the Production Manager with majority approved from the Executive Board.
+6. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
 ### Section 7 – Director of Publicity
 
-The responsibilities of the Director of Publicist shall be the following:
+The responsibilities of the Director of Publicity shall be the following:
 
 1. To serve as chair of the Publicity Committee.
-2. To develop or delegate the development of all Florida Players production programs as defined in the Director of Publicity’s Operational Handbook, which shall meet the approval of the Director of Publicity and each productions director and producer.
-3. To send out all press releases public service announcements etc. Regarding all Florida Players productions, events and fundraisers as defined in the director of Publicity’s Operational Handbook.
-4. To keep track of all media published about Florida Players.a timely fashion prior to the show.
-5. With the Director of Special Events, to assure that all Florida Players meetings and events are adequately publicized at least two weeks in advance.
-6. In coordination with the Historian and each production’s producer, to ensure that Photocall takes place for each production.
+2. To develop, or delegate the development of, all Florida Players production programs, which shall meet the approval of the Secretary and each production's director and producer.
+3. To send out all press releases, public service announcements, etc. regarding all Florida Players productions, events, and fundraisers.
+4. To keep track of all media published about Florida Players.
+5. To ensure, in conjunction with the Director of Special Events, that all Florida Players meetings and events are adequately publicized at least one (1) week in advance.
+6. To ensure, in conjunction with the Historian and each production’s producer, that photocall takes place for each production.
 7. To plan and orchestrate the creation and hanging of a tarp for each production.
-8. To maintain an officer’s Operational Handbook to be passed down to the subsequent holder of this office.
-9. To plan and produce one workshop with assistance from the assistant artistic director
+8. To maintain an officer's operational handbook to be passed down to the subsequent holder of this office.
+9. The office of Director of Publicity shall be inherited by the Assistant Director of Publicity at the discretion of the Executive Board. The office of Assistant Director of Publicity is a position appointed by application to the Director of Publicity with approval of the Executive Board.
+10. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
-The office of Publicist shall be succeeded by the Assistant Publicist at the discretion of the executive board. The office of Assistant Publicist is a position appointed by application by the Publicist with approval of the executive board.
+### Section 8 – Assistant Director of Publicity
 
-### Section 8 – Assistant of Publicity (ADP)
+The responsibilities of the Assistant Director of Publicity shall be the following:
 
-The responsibilities of the Assistant Publicist shall be the following:
-
-1. To assist the Director of Publicity with any of the aforementioned responsibilities outlined in Article VI - Section VII
+1. To assist the Director of Publicity with any of the aforementioned responsibilities outlined in Article VI, Section 7.
 2. To maintain and update the Press Contact List.
-3. To coordinate the house management for every Florida Players production as defined in the Officer’s Operational Handbook.
-4. To maintain an officer’s Operational Handbook to be passed down to the subsequent holder of this office.
-5. To plan and produce one workshop with assistance from the assistant artistic director.
+3. To coordinate the house management for every Florida Players production.
+4. To maintain an officer's operational handbook to be passed down to the subsequent holder of this office.
+5. The office of Assistant Director of Publicity is a position appointed by application to the Director of Publicity with approval of the Executive Board.
+6. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
-The Assistant of Publicity is a position appointed by application by the Director of Publicity with approval by the Executive Board.
-
-### Section 9 – Director of Development and Events (Special Events)
+### Section 9 – Director of Special Events
 
 The responsibilities of the Director of Development and Events shall be the following:
 
