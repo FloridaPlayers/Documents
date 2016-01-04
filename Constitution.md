@@ -374,6 +374,7 @@ Florida Players shall maintain the following policies for all general and commit
 
 1. All committees must take minutes of their meetings, which shall be given to the Secretary within forty-eight (48) hours.
 2. All meeting times, locations and agenda must be posted at least forty-eight (48) hours in advance, except in the case of special meetings called by the chair of that committee or the Artistic Director.
+3. Public admission to each meeting is left up to the discretion of the committee leading the meeting. 
 
 #### Part 3 — Executive Board Meeting Policies
 
@@ -382,6 +383,12 @@ Florida Players shall maintain the following policies for all general and commit
 3. Executive Board meetings are not open to the public, however, meeting minutes will be provided to the general body by the Secretary.
 4. The Executive Board shall meet on a bi-weekly basis at a regular time and place, as determined by the Executive Board at the beginning of each semester.
 5. The Board shall meet to discuss the state of Florida Players and all of its programs, events, and affairs.
+
+#### Part 4 — Production and Design Meeting Policies
+
+1. The meetings will be scheduled and facilitated by the Production Manager and the Assistant Production Manager.
+2. Public attendance at meetings is left to the discretion of the Production Manager. 
+3. All Executive Board members are permitted and encouraged to attend production and design meetings.
 
 ## Article XII — Programs and Special Events
 
