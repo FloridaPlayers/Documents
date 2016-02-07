@@ -397,11 +397,11 @@ Florida Players shall maintain the following policies for all general and commit
 Florida Players shall maintain the following programs outside for the Production Season:
 
 1. Mentorship Program
- 1. Florida Players will provide its newer members to be mentored by seasoned Florida Players in a constructive manner.
+ 1. Florida Players will ensure that new members have the opportunity to be mentored by seasoned Florida Players in a constructive manner.
  2. Florida Players will hold events to foster meaningful mentor/mentee relationships.
 2. Monthly Workshops
  1. Florida Players will provide its members with a monthly workshop as coordinated by the Assistant Artistic Director. 
-3. NewPrograms
+3. New Programs
  1. Florida Players may undertake new programs at the discretion of the Executive Board without amending this Constitution as long as the new program remains in its experimental phase.
  2. Once a new program has reached maturation this Constitution must be amended for its continued existence.
 
@@ -409,14 +409,14 @@ Florida Players shall maintain the following programs outside for the Production
 
 Florida Players shall maintain the following events outside of the Production Season:
 
-1. Florida Players annual events including the:
- 1. End-of-the-Year Florida Players Banquet (Mandatory)
- 2. Florida Players Holiday Party (Optional)
-2. Show specific events seeking to gain financial support from alternative sources.
+1. Florida Players annual events include:
+ 1. End-of-the-Year Florida Players Banquet
+ 2. Florida Players Holiday Party
+2. Show-specific events seeking to gain financial support from alternative sources
 3. Community service events and programs such as Relay for Life
 4. Events coordinated by the Mentorship program
 5. Workshops
-6. Various events to promote Florida Players sense of community
+6. Various events to promote a sense of community within Florida Players
 
 ## Article XIII — Standing Committees
 
