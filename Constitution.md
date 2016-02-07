@@ -512,15 +512,14 @@ Florida Players shall fund productions in the fall and spring semesters that are
 
 The following requirements must be met for each show in a season:
 
-1. Directors, Producers and Stage Managers must all meet with the Production Manager to discuss expectations, rights, and responsibilities as well as to sign Production Contracts prior to accepting their roles on a production.
-2. It is not mandatory, however, it is highly suggested that the Directors have some directing or assistant directing experience, preferably with a Florida Players Production.
+1. Directors, producers, and stage managers must all meet with the Production Manager to discuss expectations, rights, and responsibilities as well as to sign production contracts prior to accepting their roles on a production.
+2. It is highly suggested that the directors have some directing or assistant directing experience.
 3. Open auditions must be held.
-4. Directors and Producers are not permitted to act in their own show.
+4. Directors, producers, and stage managers are not permitted to act in their own show.
 5. Designers and performers must sign production contracts before accepting their positions and roles on a production.
-6. Designers may not design a Florida Players production if they have a conflict with a University of Florida School of Theatre and Dance production mandated by their department head unless permission is given by his or her department head.
-7. A director must consult with the other directors in that season at a casting meeting presided over by the Production Manager and come to a mutual agreement before finalizing any casting decision of informing anyone of their status as a cast member.
+6. Designers may not design a Florida Players production if they have a conflict with a University of Florida School of Theatre and Dance production as mandated by their department unless permission is given by his or her department head.
+7. A director must consult with the other directors in that season at a casting meeting presided over by the Production Manager and the Artistic Director. All directors must come to a mutual agreement before finalizing any casting decision or informing anyone of their status as a cast member.
 8. The cast lists for each production are to be regulated and posted by the Production Manager.
-9. It is highly recommended that all involved with the shows are students at the University of Florida. Any exceptions must be approved by the Executive Board.
 
 ### Section 3 — The New Works Festival
 
@@ -528,16 +527,15 @@ Florida Players shall produce a New Works Festival in the third slot of the fall
 
 1. The Assistant Production Manager shall serve as the New Works coordinator unless he or she has a conflict with a University of Florida School of Theatre and Dance production.
 2. In order for a work to be eligible for submission, the work must have been written by a student at the University of Florida at the time of proposal. Additionally, all proposed works must have never been previously produced and/or financially supported by another institution.
-3. The play produced shall be established by the Production Selection Committee.
-4. Proposals for these new works shall be made in writing to the Production Selection Committee and shall include the information outlined in the New Works Proposal Guidelines.
+3. The play(s) produced shall be chosen by the Production Selection Committee.
+4. Proposals for these new works shall be made in writing to the Production Selection Committee and shall include the information outlined in the proposal guidelines.
 5. After each playwright is interviewed by the Production Selection Committee regarding their intentions and overall concept for their piece, the committee shall select the most promising of these proposals.
-6. Members of the committee who have proposals under consideration shall abstain from voting. The chair of the Production Selection Committee shall vote only in the event of a tie.
-7. The amount of works passed on to the festival is at the discretion of the Production Selection Committee.
-8. The director(s) and producer of the production are also prohibited from acting.
-9. In the event that a new work is passed, edits to the script will be permitted within reason at the discretion of the Assistant Production Manager up to three weeks prior to opening night
-10. It is highly recommended that all involved with the show are students at the University of Florida. However, exceptions can be approved by the Executive Board.
-11. It is recommended that no more than three new works are featured in any one festival, however this is left to the discretion of the Production Selection Committee based upon length of work and difficulty of execution.
-12. The New Works Festival shall be mounted as a singularly produced festival sharing a single design team and budget.
+6. The chair of the Production Selection Committee shall vote only in the event of a tie.
+7. The quantity of works selected for the festival is at the discretion of the Production Selection Committee.
+8. Directors, producers, and stage managers are prohibited from acting in their own shows.
+9. In the event that a new work is selected, edits to the script will be permitted within reason at the discretion of the Assistant Production Manager up to three weeks prior to opening night.
+10. It is recommended that no more than three new works are featured in any one festival, however this is left to the discretion of the Production Selection Committee based upon length of work and difficulty of execution.
+11. The New Works Festival shall be mounted as a singularly produced event sharing a unified design team and budget.
 
 ### Section 4 — Production Contracts
 
@@ -545,19 +543,19 @@ Any person involved in a Florida Players production must sign and adhere to the 
 
 ### Section 5 — Feedback
 
-The directors, designers and actors of each show will be allowed the option to participate in a talkback, organized by the show’s producer, director and stage manager and moderated by the Artistic Director of Florida Players or his or her designee, space and time permitting. If a space is not available or scheduling conflicts are too burdensome, a director may elect to include feedback inserts in their programs. The questions for these feedback inserts will be created through collaboration between Artistic Director, Production Manager and Director of the production.
+The directors, designers, and actors of each show will be allowed the option to participate in a talkback organized by the show’s producer, director, and stage manager, time permitting.  The Artistic Director of Florida Players, or his or her designee, will moderate the feedback session. If a space is not available or scheduling conflicts are too burdensome, a director may elect to include feedback inserts in their programs. The questions for these feedback inserts will be created through collaboration between Artistic Director, Production Manager, and director of the production.
 
 ### Section 6 — Behavioral Documentation Process
 
-1. In the case that any cast or crew member has committed an act that may be deemed as inappropriate during an official rehearsal or performance of a show, or if any member of a show is in major breach of contract, a Behavioral Documentation Form must be filed with the Artistic Director in order to record the incident. This form must be filed within three (3) days of the incident, and must be signed by: the individual filing the form (the Complainant) the individual who the form is being filed against (the Respondent) and two (2) witnesses. If the form is not filed within three (3) days, the incident will be considered null and void.
-2. After one (1) Behavioral Documentation Forms have been filed against the same individual, the Artistic Director will step in to mediate the issue between the respondent and the Complainant.
-3. After two (2) Behavioral Documentation Forms have been filed against the same individual, his/her position in the show will be re-evaluated by the Director, Stage manager, Production manager, Artistic Director and the Faculty Advisor.
-4. In the case that a form is filed against an individual who denies that the incident occurred or insists that the incident has been misrepresented, the Artistic Director will step in to mediate the issue between the Respondent and the Complainant.
-5. In the case that either the Artistic Director is the Complainant or the Respondent, the Assistant Artistic Director or Production Manager will take his or her place in the mediation and re-revaluation process.
-6. Behavioral forms will be filed in quintuplicate withone copy being kept by the Artistic Director, one copy being filed with the Florida Players’ faculty advisor, one copy being filed with the head of the respondent’s department (if applicable), one being filed with the complainant and one being filed with the respondent.
-7. When the incident in question involve sexual harassment or physical assault, the complainant must file a University of Florida Complaint/Intake Form with the Office of Human Resource Services and follow the procedure put forth by the University of Florida in regards to sexual harassment or physical assault.
-8. Florida Players reserves the right to deny or revoke membership to any member by majority vote of the Executive Board and ask any person to leave any event sponsored or co-sponsored by Florida Players in response to a behavioral issue or in response to a history of behavioral issues.
-9. Florida Players retains the right to archive Behavioral Forms and breached contracts. Florida Players also retains the rights to have archived Behavioral Forms and breached contract brought into discussion in good faith during elections and during Production Selection Committee Meetings.
+1. In the case that any cast or crew member has committed an act that may be deemed inappropriate during an official rehearsal or performance of a show, or if any member of a show is in major breach of contract, a behavioral documentation form must be filed with the Artistic Director in order to report the incident. This form must be filed within seven (7) days of the incident, and must be signed by: the individual filing the form and two (2) witnesses. If the form is not filed within seven (7) days, the incident will be considered null and void.
+2. After one (1) behavioral documentation form has been filed against an individual, the Assistant Artistic Director will step in to mediate the issue between the respondent and the complainant.
+3. After two (2) behavioral documentation forms have been filed against the same individual, his/her position in the show will be re-evaluated by the director, stage manager, Production Manager, Artistic Director, and the Faculty Advisor.
+4. In the case that a form is filed against an individual who denies that the incident occurred or insists that the incident has been misrepresented, the Assistant Artistic Director will step in to mediate the issue between the respondent and the complainant.
+5. In the case that either the Assistant Artistic Director is the complainant or the respondent, the Artistic Director or Production Manager will take his or her place in the mediation and re-revaluation process.
+6. Behavioral forms will be filed in quintuplicate (5) with one copy being kept by the Artistic Director, one copy being filed with the Florida Players’ Faculty Advisor, one copy being filed with the head of the respondent’s department (if applicable), one being filed with the complainant, and one being filed with the respondent.
+7. When the incident in question involves sexual harassment or physical assault, the complainant must file a University of Florida Complaint/Intake Form with the Office of Human Resource Services and follow the procedure put forth by the University of Florida in regards to sexual harassment or physical assault.
+8. Florida Players reserves the right to deny or revoke membership to any member by majority vote of the Executive Board and to ask any person to leave any event sponsored or co-sponsored by Florida Players in response to a behavioral issue or in response to a history of behavioral issues.
+9. Florida Players retains the right to archive behavioral forms and breached contracts. Florida Players also retains the right to have archived behavioral forms and breached contracts brought into discussion during elections and during production Selection Committee meetings.
 
 ## Article XV — Adoption and Authority
 
