@@ -559,20 +559,20 @@ The directors, designers, and actors of each show will be allowed the option to 
 
 ## Article XV — Adoption and Authority
 
-###  Section 1 — Adoption of this constitution
+###  Section 1 — Adoption of the Constitution
 
-This constitution upon the adoption by the voting membership and approval by the University of Florida Center for Student Involvement, shall go into effect immediately. It shall supersede and void all previous Constitutions of Florida Players.
+This Constitution, upon the adoption by the voting membership and approval by the University of Florida Center for Student Involvement, shall go into effect immediately. It shall supersede and void all previous Constitutions of Florida Players.
 
-### Section 2 — Authorities over this Constitution
+### Section 2 — Authorities over the Constitution
 
-This Constitution comes under all rules and regulations of The Student Body Constitution of the University of Florida and all rules and regulations governing the University of Florida and its students.
+This Constitution falls under all rules and regulations of The Student Body Constitution of the University of Florida and all rules and regulations governing the University of Florida and its students.
 
 ## Article XVI — Amendments to the Constitution
 
 ### Section 1 — Proposal of Amendments
 
-Amendments to this constitution may be proposed by any voting member at any meeting. A two-thirds (2/3) vote of the total voting membership at the next regular meeting shall be necessary to pass such an amendment. The vote may be taken at the same meeting if the two-third (2/3) are present.
+Amendments to this Constitution may be proposed by any voting member at any meeting. A two-thirds (2/3) vote of the total voting membership at the next regular meeting shall be necessary to pass such an amendment. The vote may be taken at the same meeting if the two-thirds (2/3) are present.
 
 ### Section 2 — Approval of Amendments
 
-All amendments to the constitution must immediately be submitted directly to the Department for Student Activities and Involvement in writing for review and approval.
+All amendments to the Constitution must immediately be submitted directly to the Department for Student Activities and Involvement in writing for review and approval.
