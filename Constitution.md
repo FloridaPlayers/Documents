@@ -497,16 +497,16 @@ In order to provide students with a better laboratory experience for training an
 
 ### Section 1 — Selection and Funding 
 
-Florida Players shall fund productions in the fall and spring semesters to be student produced and predominantly student run. Faculty may be invited to supervise by the student proposing the show.
+Florida Players shall fund productions in the fall and spring semesters that are student produced and predominantly student run. Faculty may be invited to supervise by the student proposing the show. The following rules shall be abided by the Selection Committee and those submitting proposals:
 
 1. The plays to be produced shall be established by the Production Selection Committee.
-2. Only voting members who have maintained membership for two semesters including the semester of the time proposals are eligible to propose shows. It is the responsibility of the secretary to ensure that all incoming proposals are submitted by those holding voting membership.
-3. Proposals for these shows shall be made in writing to the Production Selection Committee, and shall include the information outlined in the Production Proposal Guidelines.
-4. A director may not propose a show if they have a conflict with a University of Florida School of Theatre and Dance production mandated by their department unless permission is given by his or her department head.
-5. The committee shall select the most promising of these proposals after each producer and director is interviewed by the committee regarding their intentions and overall concept for the piece.
-6. Members of the committee who have proposals under consideration shall abstain from voting. The chair of the committee shall vote only in the event of a tie.
-7. The third slot of the fall semester shall be a New Works Festival unless no New works is proposed.
-8. Florida Players will fully mount all productions selected as a part of the production season fairly, evenly, and without prejudice, bias or favoritism doing its best to meet all technical, financial and personal needs as it fitting to the Florida Players Budget and to each shows specific budget.
+2. It is highly recommended that those submitting proposals are voting members who have maintained membership for at least two semesters.
+3. Proposals shall be submitted in writing to the Production Manager, who shall distribute them to the Production Selection Committee, and shall include the information outlined in the Production Proposal Guidelines.
+4. A director may not propose a show if they have a conflict with a University of Florida School of Theatre and Dance production as mandated by their department unless permission is given by his or her department head.
+5. The committee shall select the most promising of these proposals after each producer and/or director is interviewed by the committee regarding their intentions and overall concept for the piece.
+6. The chair of the committee shall vote only in the event of a tie.
+7. The third slot of the fall semester shall be the New Works Festival unless no new works are proposed.
+8. Florida Players will fully mount all productions selected as a part of the production season fairly, evenly, and without prejudice, while doing its best to meet all technical, financial, and personal needs according to the Florida Players budget and to each show's specific budget.
 
 ### Section 2 — Production Requirements
 
