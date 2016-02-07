@@ -421,71 +421,69 @@ Florida Players shall maintain the following events outside of the Production Se
 ## Article XIII — Standing Committees
 
 Florida Players shall have the following standing committees: 
-- The Executive Board
-- the Finance Committee
-- the Production Selection Committee
-- the Special Events Committee
-- The Publicity Committee
-- the Community Outreach Committee
+- Executive Board
+- Finance Committee
+- Production Selection Committee
+- Special Events Committee
+- Publicity Committee
+- Community Outreach Committee
 
 ### Section 1 — The Executive Board
 
-This board shall consist of the Artistic Director, who shall serve as chair, the Assistant Artistic Director, the Secretary, the Director of Finance, the Production Manager, the Assistant Production Manger, the Director of Publicity, the Assistant Director of Publicity, the Director of Special Events, the Web Manager, the Assistant Web Manager and the Historian. The Faculty Advisor shall serve as ex-officio member of this committee. The duties of the Executive Board shall be the following:
+This board shall consist of the Artistic Director, who shall serve as chair, the Assistant Artistic Director, the Secretary, the Director of Finance, the Production Manager, the Assistant Production Manger, the Director of Publicity, the Assistant Director of Publicity, the Director of Special Events, the Web Manager, the Assistant Web Manager, the Historian, and the Director of Community Affairs. The Faculty Advisor shall serve as ex-officio member of this committee. The duties of the Executive Board shall be the following:
 
 1. To enforce and interpret this constitution according to the three-fold artistic mission of this organization.
-2. To expedite Florida Players policy
+2. To execute Florida Players policy.
 3. To act as liaison Board to all outside organizations as well as those organizations under the umbrella of Florida Players.
 4. To review the Florida Players Constitution annually no later than at the start of the spring semester and make changes as seen fit.
 
 ### Section 2 — Finance Committee
 
-This committee shall consist of the Director of Finance, who shall serve as the chair, any interested Florida Players member approved by the Director of Finance. Sub-groups named in Article II of this constitution are encouraged to select a member to serve as a representative on the finance committee. The Faculty Advisor shall serve as an ex-officio member on this committee. The duties of the Finance Committee shall be the following:
+This committee shall consist of the Director of Finance, who shall serve as the chair, and any interested Florida Players members approved by the Director of Finance. Sub-groups named in Article II of this constitution are encouraged to select a member to serve as a representative on the Finance Committee. The Faculty Advisor shall serve as an ex-officio member on this committee. The duties of the Finance Committee shall be the following:
 
-1. to create the overall budget for Florida Players.
-2. To oversee all revenues and expenditures of Florida Players
+1. To create the overall budget for Florida Players.
+2. To oversee all revenues and expenditures of Florida Players.
 3. To approve the budgets of all sub-groups named in Article II of this Constitution under the umbrella organization Florida Players.
-4. To allocate Student Government Funds to produce quality and free entertainment for the University and its Students.
+4. To allocate Student Government funds to produce quality and free entertainment for the university and its students.
 
 ### Section 3 — Production Selection Committee
 
-This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager and six (6) students to be elected by the Florida Players voting membership. It is highly recommended that these six (6) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, and undergraduate production student, an undergraduate stage manager and a dance student. These selection committee members shall be appointed by the artistic director and production manager and approved by a majority vote of the executive board. This is to ensure that those choosing the season are those who the Artistic director believes will carry out the artistic vision of the company while making their selections. The artistic director will be allowed to sit-in on selection committee hearings to give input about the artistic vision of the theatre.The faculty advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIII of this Constitution. Elections for the Production Selection Committee must occur no later than the third general body meeting of the fall semester. In selection committee chair is to find a suitable substitute for that category – the Assistant Artistic Director and/ or the Artistic director may step in at the discretion of the Production Selection Committee Chair.The duties of selection committee shall be as follows:
+This committee shall consist of the Production Manager, who shall serve as the chair, the Assistant Production Manager, and nine (9) students to be elected by the Florida Players voting membership. It is highly recommended that these nine (9) shall be: a graduate performance student, a graduate production student, an undergraduate performance student, an undergraduate production student, an undergraduate stage manager, a dance student, a music student, a BA Theatre student, and a non-theatre major. These Selection Committee members shall be approved by the Artistic Director and Production Manager and by a majority vote of the Executive Board. This is to ensure that those choosing the season are those who the Executive Board believes will carry out the artistic vision of the organization while making their selections. The Artistic Director will be allowed to sit-in on Selection Committee hearings to give input about the artistic vision of the coming season. The Faculty Advisor shall serve as ex-officio member of this committee. The main duty of the Production Selection Committee shall be to select the Florida Players Production Season as outlined in Article XIV of this Constitution. The duties of selection committee shall be as follows:
 
-1. To read all proposals and plays and come prepared to the selection committee hearing ready to discuss each proposal.
-2. To uphold the constitution when making selections.
-3. To be free of bias when voting for proposals.
+1. To read and discuss all proposals and plays.
+2. To attend the selection meeting, during which they shall listen to presentations given by the prospective directors of each proposed production.
+3. To uphold the constitution when making selections.
+4. To be free of bias when voting for proposals.
 
 #### Part 1 — Replacement and Removal of Production Selection Committee Members
 
-1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
-2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the nest regularly held general meeting. 
+1. Production Selection Committee members who are not fulfilling their duties as outlined in Article XIII – Section 3 of this Constitution shall be removed from their seat by a majority vote of the Executive Board.
+2. The Executive Board shall immediately appoint a Florida Players voting member to fill the vacancy. This appointment shall be approved by the voting membership at the next regularly held general meeting. 
 
 ### Section 4 — Special Events Committee
 
-This committee shall consist of the Director of Special Events, who shall serve as the chair and any interested Florida Players members as approved by the Director of Special Events. The duties of this committee shall be the following:
+This committee shall consist of the Director of Special Events, who shall serve as the chair, and any interested Florida Players members as approved by the Director of Special Events. The duties of this committee shall be the following:
 
-1. To plan and organize special events which both serve the three-fold artistic mission of the organization and provide a social outlet for the members of Florida Players
+1. To plan and organize special events which both serve the three-fold artistic mission of the organization and provide a social outlet for the members of Florida Players.
 2. To plan and organize Florida Players annual events including:
- 1. End-of-the-Year Florida Players Banquet (Mandatory)
- 2. Florida Players Holiday Party (Optional)
-3. To encourage institutional development on the following level:
- 1. Financial – to innovate and maintain methods to gain financial support from
-    alternative sources.
+ 1. End-of-the-Year Florida Players Banquet
+ 2. Florida Players Holiday Party
 
 ### Section 5 — Publicity Committee
 
-This committee shall consist of the Director of Publicity who shall serve as the chair, the Assistant Director of Publicity, and any interested Florida Players members as approved by the Director of Publicity. Publicity included, but is not limited to, the following: programs, brochures, posters, flyers, sighs, press releases, tarps and any other forms of advertising. The duties of the Publicity Committee shall be the following:
+This committee shall consist of the Director of Publicity who shall serve as the chair, the Assistant Director of Publicity, and any interested Florida Players members as approved by the Director of Publicity. Publicity includes, but is not limited to, the creation of the following: programs, brochures, posters, flyers, signs, press releases, tarps, and any other forms of advertising. The duties of the Publicity Committee shall be the following:
 
-1. To coordinate with the Director of Finance the proper allocation of the publicity Budget
-2. To provide publicity for all meetings, events and productions
-3. To organize the design, acquisition and distribution of all seasonal tee shirts
-4. To innovate and maintain methods of publicizing Florida Players.
-5. To plan and orchestrate the creation and hanging of a tarp for each production.
+1. To coordinate with the Director of Finance on the proper allocation of the publicity budget.
+2. To provide publicity for all meetings, events, and productions.
+3. To organize the design, acquisition, and distribution of all seasonal t-shirts.
+4. To create and maintain methods of publicizing Florida Players.
+5. To plan and orchestrate the creation and hanging of a tarp or some alternative media for each production.
 
 ### Section 6 – Community Outreach Committee
 
-This committee shall consist of the Assistant Artistic Director, who shall serve as the chair, and any interested Florida Players members as approved by the Assistant Artistic Director. The duties of Community Outreach Committee hall be the following:
+This committee shall consist of the Director of Community Affairs, who shall serve as the chair, and any interested Florida Players members as approved by the Director of Community Affairs. The duties of Community Outreach Committee shall be the following:
 
-1. To provide service to the surrounding theatre community by sharing Florida Players’ resources of talent and education.
+1. To provide service to the surrounding community by sharing Florida Players’ resources of talent and education.
 2. To introduce theatre as an outlet and activity to the people of the community.
 3. To use theatre as a tool to spread important ideas and messages throughout the community.
 
