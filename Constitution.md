@@ -397,7 +397,7 @@ Florida Players shall maintain the following policies for all general and commit
 Florida Players shall maintain the following programs outside for the Production Season:
 
 1. Mentorship Program
- 1. Florida Players will ensure that new members have the opportunity to be mentored by seasoned Florida Players in a constructive manner.
+ 1. Florida Players will ensure that new members have the opportunity to be mentored by a seasoned Florida Player member in a constructive manner.
  2. Florida Players will hold events to foster meaningful mentor/mentee relationships.
 2. Monthly Workshops
  1. Florida Players will provide its members with a monthly workshop as coordinated by the Assistant Artistic Director. 
