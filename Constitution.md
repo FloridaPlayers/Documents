@@ -239,6 +239,7 @@ The responsibilities of the Director of Community Affairs shall be the following
 5. To oversee philanthropic work being performed by members in the name of Florida Players.
 6. To maintain an officer’s operational handbook to be passed down to the subsequent holder of this office.
 7. To plan and produce one workshop in conjunction with the Assistant Artistic Director.
+8. To appoint a successor, upon leaving office, who shall be inherit the position upon receiving approval from the Executive Board.
 
 ### Section 14 – General Requirements of the Executive Board Officers 
 
