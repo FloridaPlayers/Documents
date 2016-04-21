@@ -91,7 +91,7 @@ The responsibilities of the Secretary shall be the following:
 8. To keep track of all members' Florida Players points and membership status.
 9. To assign points toward membership as seen fit for undefined production positions.
 10. To maintain an officer's operational handbook to be passed down to the subsequent holder of this office.
-11. To keep and maintain the designated Florida Players bulletin board in the School of Theatre and Dance hallway.
+11. To keep and maintain the Florida Players office, and the designated Florida Players bulletin board in the School of Theatre and Dance hallway.
 12. To maintain the integrity of and proofread all records and official Florida Players publicity, social media, and paperwork.
 13. To plan and produce, in conjunction with the Assistant Artistic Director, one workshop.
 
